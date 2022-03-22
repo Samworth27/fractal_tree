@@ -1,0 +1,1546 @@
+<svg viewBox = '0 0 1000 1000' xmlns='http://www.w3.org/2000/svg'>
+
+<filter id='blur'>
+
+    <feGaussianBlur stdDeviation='2'/>
+
+</filter>
+
+<g transform='rotate(180 500 500)' stroke-linecap='round'>
+<rect width='100%' height='100%' fill='skyblue' />
+<path d='M 500 0, L 500.0 7.0' stroke = 'black' stroke-width='9' />
+<path d='M 500.0 7.0, L 502.54766325928256 25.98842571336282' stroke = 'black' stroke-width='8' />
+<path d='M 502.54766325928256 25.98842571336282, L 504.2577639759109 60.757052682441426' stroke = 'black' stroke-width='7' />
+<path d='M 504.2577639759109 60.757052682441426, L 509.2749152695451 117.70545869877074' stroke = 'black' stroke-width='6' />
+<path d='M 509.2749152695451 117.70545869877074, L 547.415359832 134.7977896847508' stroke = 'black' stroke-width='5' />
+<path d='M 547.415359832 134.7977896847508, L 595.7197734880307 135.46692029110966' stroke = 'black' stroke-width='4' />
+<path d='M 595.7197734880307 135.46692029110966, L 604.2294406684246 138.72260183568122' stroke = 'black' stroke-width='3' />
+<path d='M 604.2294406684246 138.72260183568122, L 662.9062324951527 145.83053733788165' stroke = 'black' stroke-width='2' />
+<path d='M 662.9062324951527 145.83053733788165, L 676.4903726630166 137.84711478309262' stroke = 'black' stroke-width='1' />
+<circle cx='676.4903726630166' cy='137.84711478309262' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 662.9062324951527 145.83053733788165, L 686.1933299257767 139.5405680522903' stroke = 'black' stroke-width='1' />
+<circle cx='686.1933299257767' cy='139.5405680522903' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 604.2294406684246 138.72260183568122, L 666.8843200766257 144.05355346233154' stroke = 'black' stroke-width='2' />
+<path d='M 666.8843200766257 144.05355346233154, L 674.8794466927785 145.76362880075408' stroke = 'black' stroke-width='1' />
+<circle cx='674.8794466927785' cy='145.76362880075408' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 666.8843200766257 144.05355346233154, L 666.8843200766257 145.90322678756408' stroke = 'black' stroke-width='1' />
+<circle cx='666.8843200766257' cy='145.90322678756408' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 595.7197734880307 135.46692029110966, L 607.0659963952224 144.2572604614529' stroke = 'black' stroke-width='3' />
+<path d='M 607.0659963952224 144.2572604614529, L 667.8193167230835 144.64799158994217' stroke = 'black' stroke-width='2' />
+<path d='M 667.8193167230835 144.64799158994217, L 728.8100261276234 143.46122795220688' stroke = 'black' stroke-width='1' />
+<circle cx='728.8100261276234' cy='143.46122795220688' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 667.8193167230835 144.64799158994217, L 714.8121583954339 143.4437755457696' stroke = 'black' stroke-width='1' />
+<circle cx='714.8121583954339' cy='143.4437755457696' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 607.0659963952224 144.2572604614529, L 645.727200240225 161.05869898649166' stroke = 'black' stroke-width='2' />
+<path d='M 645.727200240225 161.05869898649166, L 686.6507429612049 175.0056643558113' stroke = 'black' stroke-width='1' />
+<circle cx='686.6507429612049' cy='175.0056643558113' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 645.727200240225 161.05869898649166, L 682.7532627020639 161.05869898649166' stroke = 'black' stroke-width='1' />
+<circle cx='682.7532627020639' cy='161.05869898649166' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 547.415359832 134.7977896847508, L 563.0214011670253 153.53344666279884' stroke = 'black' stroke-width='4' />
+<path d='M 563.0214011670253 153.53344666279884, L 596.1910979363981 169.99143372698808' stroke = 'black' stroke-width='3' />
+<path d='M 596.1910979363981 169.99143372698808, L 652.6130785382172 175.54649611672008' stroke = 'black' stroke-width='2' />
+<path d='M 652.6130785382172 175.54649611672008, L 719.3637270126584 172.87517018144845' stroke = 'black' stroke-width='1' />
+<circle cx='719.3637270126584' cy='172.87517018144845' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 652.6130785382172 175.54649611672008, L 654.5763329051125 170.5854622369299' stroke = 'black' stroke-width='1' />
+<circle cx='654.5763329051125' cy='170.5854622369299' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 596.1910979363981 169.99143372698808, L 656.4382975620694 185.77950578201586' stroke = 'black' stroke-width='2' />
+<path d='M 656.4382975620694 185.77950578201586, L 675.2959781775158 219.77201872607944' stroke = 'black' stroke-width='1' />
+<circle cx='675.2959781775158' cy='219.77201872607944' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 656.4382975620694 185.77950578201586, L 677.01031277892 215.13667605188894' stroke = 'black' stroke-width='1' />
+<circle cx='677.01031277892' cy='215.13667605188894' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 563.0214011670253 153.53344666279884, L 601.8542168970228 191.15170280951713' stroke = 'black' stroke-width='3' />
+<path d='M 601.8542168970228 191.15170280951713, L 617.2832283096608 201.96750238262828' stroke = 'black' stroke-width='2' />
+<path d='M 617.2832283096608 201.96750238262828, L 635.5541374625128 201.96750238262828' stroke = 'black' stroke-width='1' />
+<circle cx='635.5541374625128' cy='201.96750238262828' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 617.2832283096608 201.96750238262828, L 647.4302284118667 227.5919108964037' stroke = 'black' stroke-width='1' />
+<circle cx='647.4302284118667' cy='227.5919108964037' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 601.8542168970228 191.15170280951713, L 640.4267454286178 208.14795928154894' stroke = 'black' stroke-width='2' />
+<path d='M 640.4267454286178 208.14795928154894, L 676.5620609187337 236.81828083166366' stroke = 'black' stroke-width='1' />
+<circle cx='676.5620609187337' cy='236.81828083166366' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 640.4267454286178 208.14795928154894, L 675.4149080460315 212.24371950299388' stroke = 'black' stroke-width='1' />
+<circle cx='675.4149080460315' cy='212.24371950299388' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 509.2749152695451 117.70545869877074, L 544.0697068002057 147.4312517178665' stroke = 'black' stroke-width='5' />
+<path d='M 544.0697068002057 147.4312517178665, L 550.9842297324943 209.55234283756334' stroke = 'black' stroke-width='4' />
+<path d='M 550.9842297324943 209.55234283756334, L 601.5497716074201 245.63558943204123' stroke = 'black' stroke-width='3' />
+<path d='M 601.5497716074201 245.63558943204123, L 622.9619510109036 278.3339617530466' stroke = 'black' stroke-width='2' />
+<path d='M 622.9619510109036 278.3339617530466, L 646.7072977032835 306.94960202163963' stroke = 'black' stroke-width='1' />
+<circle cx='646.7072977032835' cy='306.94960202163963' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 622.9619510109036 278.3339617530466, L 649.2514419917528 307.47952128587286' stroke = 'black' stroke-width='1' />
+<circle cx='649.2514419917528' cy='307.47952128587286' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 601.5497716074201 245.63558943204123, L 645.0432610207458 256.03961698872473' stroke = 'black' stroke-width='2' />
+<path d='M 645.0432610207458 256.03961698872473, L 663.4660265901066 273.53201113151266' stroke = 'black' stroke-width='1' />
+<circle cx='663.4660265901066' cy='273.53201113151266' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 645.0432610207458 256.03961698872473, L 658.6179303876432 277.9051096672096' stroke = 'black' stroke-width='1' />
+<circle cx='658.6179303876432' cy='277.9051096672096' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 550.9842297324943 209.55234283756334, L 558.5313255347221 253.50829777992732' stroke = 'black' stroke-width='3' />
+<path d='M 558.5313255347221 253.50829777992732, L 588.3573002249765 290.37013977293196' stroke = 'black' stroke-width='2' />
+<path d='M 588.3573002249765 290.37013977293196, L 621.0062436365494 321.30175118749395' stroke = 'black' stroke-width='1' />
+<circle cx='621.0062436365494' cy='321.30175118749395' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 588.3573002249765 290.37013977293196, L 622.3955603774673 316.9857123854621' stroke = 'black' stroke-width='1' />
+<circle cx='622.3955603774673' cy='316.9857123854621' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 558.5313255347221 253.50829777992732, L 564.8406663345836 285.455227507198' stroke = 'black' stroke-width='2' />
+<path d='M 564.8406663345836 285.455227507198, L 571.5189811727627 300.179635258913' stroke = 'black' stroke-width='1' />
+<circle cx='571.5189811727627' cy='300.179635258913' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 564.8406663345836 285.455227507198, L 577.243251034059 313.92241582718026' stroke = 'black' stroke-width='1' />
+<circle cx='577.243251034059' cy='313.92241582718026' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 544.0697068002057 147.4312517178665, L 561.5593824524651 204.98461554935037' stroke = 'black' stroke-width='4' />
+<path d='M 561.5593824524651 204.98461554935037, L 578.4166791561812 206.83898325848395' stroke = 'black' stroke-width='3' />
+<path d='M 578.4166791561812 206.83898325848395, L 598.7786832065274 229.57909564410824' stroke = 'black' stroke-width='2' />
+<path d='M 598.7786832065274 229.57909564410824, L 635.6065946499023 266.1467807250668' stroke = 'black' stroke-width='1' />
+<circle cx='635.6065946499023' cy='266.1467807250668' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 598.7786832065274 229.57909564410824, L 598.7786832065274 246.40023078134917' stroke = 'black' stroke-width='1' />
+<circle cx='598.7786832065274' cy='246.40023078134917' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 578.4166791561812 206.83898325848395, L 582.7799657383982 242.69839125119918' stroke = 'black' stroke-width='2' />
+<path d='M 582.7799657383982 242.69839125119918, L 595.8513025787589 288.8252724881975' stroke = 'black' stroke-width='1' />
+<circle cx='595.8513025787589' cy='288.8252724881975' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 582.7799657383982 242.69839125119918, L 587.6817170535335 289.6639430561429' stroke = 'black' stroke-width='1' />
+<circle cx='587.6817170535335' cy='289.6639430561429' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 561.5593824524651 204.98461554935037, L 573.1721868483584 216.1108218041518' stroke = 'black' stroke-width='3' />
+<path d='M 573.1721868483584 216.1108218041518, L 577.1142342933566 263.7234235555091' stroke = 'black' stroke-width='2' />
+<path d='M 577.1142342933566 263.7234235555091, L 589.6862175964343 276.15538538302854' stroke = 'black' stroke-width='1' />
+<circle cx='589.6862175964343' cy='276.15538538302854' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 577.1142342933566 263.7234235555091, L 582.0845532736431 276.15538538302854' stroke = 'black' stroke-width='1' />
+<circle cx='582.0845532736431' cy='276.15538538302854' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 573.1721868483584 216.1108218041518, L 593.9575279219857 244.11823459906788' stroke = 'black' stroke-width='2' />
+<path d='M 593.9575279219857 244.11823459906788, L 605.5342968662997 294.10384278786046' stroke = 'black' stroke-width='1' />
+<circle cx='605.5342968662997' cy='294.10384278786046' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 593.9575279219857 244.11823459906788, L 604.1561100872146 282.56870243660063' stroke = 'black' stroke-width='1' />
+<circle cx='604.1561100872146' cy='282.56870243660063' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 504.2577639759109 60.757052682441426, L 527.5516806963554 89.69804590385468' stroke = 'black' stroke-width='6' />
+<path d='M 527.5516806963554 89.69804590385468, L 528.4924368657644 161.30362237037036' stroke = 'black' stroke-width='5' />
+<path d='M 528.4924368657644 161.30362237037036, L 524.0977790198845 176.2670831242677' stroke = 'black' stroke-width='4' />
+<path d='M 524.0977790198845 176.2670831242677, L 527.5393372507696 242.44220194414194' stroke = 'black' stroke-width='3' />
+<path d='M 527.5393372507696 242.44220194414194, L 535.4399815018444 272.7647775668899' stroke = 'black' stroke-width='2' />
+<path d='M 535.4399815018444 272.7647775668899, L 542.0552780414523 291.9900114856563' stroke = 'black' stroke-width='1' />
+<circle cx='542.0552780414523' cy='291.9900114856563' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 535.4399815018444 272.7647775668899, L 536.8181682809294 331.40174101912737' stroke = 'black' stroke-width='1' />
+<circle cx='536.8181682809294' cy='331.40174101912737' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 527.5393372507696 242.44220194414194, L 542.0931556080127 278.63366317129277' stroke = 'black' stroke-width='2' />
+<path d='M 542.0931556080127 278.63366317129277, L 543.0181331491888 295.6310739889514' stroke = 'black' stroke-width='1' />
+<circle cx='543.0181331491888' cy='295.6310739889514' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 542.0931556080127 278.63366317129277, L 542.1629652337618 278.63366317129277' stroke = 'black' stroke-width='1' />
+<circle cx='542.1629652337618' cy='278.63366317129277' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 524.0977790198845 176.2670831242677, L 531.6066333418155 176.2670831242677' stroke = 'black' stroke-width='3' />
+<path d='M 531.6066333418155 176.2670831242677, L 521.6880491853711 212.91509533491813' stroke = 'black' stroke-width='2' />
+<path d='M 521.6880491853711 212.91509533491813, L 519.245084416196 242.896820145491' stroke = 'black' stroke-width='1' />
+<circle cx='519.245084416196' cy='242.896820145491' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 521.6880491853711 212.91509533491813, L 521.6531496886687 255.88890089673924' stroke = 'black' stroke-width='1' />
+<circle cx='521.6531496886687' cy='255.88890089673924' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 531.6066333418155 176.2670831242677, L 509.7173441689727 236.40741085456585' stroke = 'black' stroke-width='2' />
+<path d='M 509.7173441689727 236.40741085456585, L 474.7426727295812 283.8981042393257' stroke = 'black' stroke-width='1' />
+<circle cx='474.7426727295812' cy='283.8981042393257' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 509.7173441689727 236.40741085456585, L 481.63162316461285 253.36837277769436' stroke = 'black' stroke-width='1' />
+<circle cx='481.63162316461285' cy='253.36837277769436' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 528.4924368657644 161.30362237037036, L 526.1904732322082 203.20131248128297' stroke = 'black' stroke-width='4' />
+<path d='M 526.1904732322082 203.20131248128297, L 524.2823832784428 255.22755320400915' stroke = 'black' stroke-width='3' />
+<path d='M 524.2823832784428 255.22755320400915, L 506.1553156821824 285.29771706915824' stroke = 'black' stroke-width='2' />
+<path d='M 506.1553156821824 285.29771706915824, L 482.180493703564 327.02099052466366' stroke = 'black' stroke-width='1' />
+<circle cx='482.180493703564' cy='327.02099052466366' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 506.1553156821824 285.29771706915824, L 490.4218387587141 314.04041656072866' stroke = 'black' stroke-width='1' />
+<circle cx='490.4218387587141' cy='314.04041656072866' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 524.2823832784428 255.22755320400915, L 509.9175372587647 317.24726617587913' stroke = 'black' stroke-width='2' />
+<path d='M 509.9175372587647 317.24726617587913, L 475.4175372587647 342.3620028856279' stroke = 'black' stroke-width='1' />
+<circle cx='475.4175372587647' cy='342.3620028856279' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 509.9175372587647 317.24726617587913, L 500.9175372587647 338.03187586670566' stroke = 'black' stroke-width='1' />
+<circle cx='500.9175372587647' cy='338.03187586670566' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 526.1904732322082 203.20131248128297, L 513.0246525512266 235.59500953505588' stroke = 'black' stroke-width='3' />
+<path d='M 513.0246525512266 235.59500953505588, L 502.9903499639582 273.87180702144116' stroke = 'black' stroke-width='2' />
+<path d='M 502.9903499639582 273.87180702144116, L 498.1095102470486 301.2781707507192' stroke = 'black' stroke-width='1' />
+<circle cx='498.1095102470486' cy='301.2781707507192' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 502.9903499639582 273.87180702144116, L 498.51624689012436 295.7968980048636' stroke = 'black' stroke-width='1' />
+<circle cx='498.51624689012436' cy='295.7968980048636' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 513.0246525512266 235.59500953505588, L 501.556878165777 296.277737257374' stroke = 'black' stroke-width='2' />
+<path d='M 501.556878165777 296.277737257374, L 487.0125895583869 350.5041591000165' stroke = 'black' stroke-width='1' />
+<circle cx='487.0125895583869' cy='350.5041591000165' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 501.556878165777 296.277737257374, L 470.5290624700114 310.2716525716043' stroke = 'black' stroke-width='1' />
+<circle cx='470.5290624700114' cy='310.2716525716043' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 527.5516806963554 89.69804590385468, L 528.283379939229 98.64874296216914' stroke = 'black' stroke-width='5' />
+<path d='M 528.283379939229 98.64874296216914, L 524.6545515052339 98.64874296216914' stroke = 'black' stroke-width='4' />
+<path d='M 524.6545515052339 98.64874296216914, L 508.2375846256018 124.96013634417457' stroke = 'black' stroke-width='3' />
+<path d='M 508.2375846256018 124.96013634417457, L 508.34211308886944 195.57119091532198' stroke = 'black' stroke-width='2' />
+<path d='M 508.34211308886944 195.57119091532198, L 525.0002166668544 246.8024515543745' stroke = 'black' stroke-width='1' />
+<circle cx='525.0002166668544' cy='246.8024515543745' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 508.34211308886944 195.57119091532198, L 539.0280933641048 247.70124560067367' stroke = 'black' stroke-width='1' />
+<circle cx='539.0280933641048' cy='247.70124560067367' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 508.2375846256018 124.96013634417457, L 512.6277800828433 124.96013634417457' stroke = 'black' stroke-width='2' />
+<path d='M 512.6277800828433 124.96013634417457, L 504.7613167863529 186.04015669525862' stroke = 'black' stroke-width='1' />
+<circle cx='504.7613167863529' cy='186.04015669525862' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 512.6277800828433 124.96013634417457, L 489.02839019337216 165.36691903796864' stroke = 'black' stroke-width='1' />
+<circle cx='489.02839019337216' cy='165.36691903796864' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 524.6545515052339 98.64874296216914, L 502.4232421890655 147.51275924303638' stroke = 'black' stroke-width='3' />
+<path d='M 502.4232421890655 147.51275924303638, L 481.27953316589276 213.79696952433773' stroke = 'black' stroke-width='2' />
+<path d='M 481.27953316589276 213.79696952433773, L 478.6493062851583 219.18973380213274' stroke = 'black' stroke-width='1' />
+<circle cx='478.6493062851583' cy='219.18973380213274' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 481.27953316589276 213.79696952433773, L 468.5667699090095 221.88611594103023' stroke = 'black' stroke-width='1' />
+<circle cx='468.5667699090095' cy='221.88611594103023' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 502.4232421890655 147.51275924303638, L 485.5799485604364 183.92239587642726' stroke = 'black' stroke-width='2' />
+<path d='M 485.5799485604364 183.92239587642726, L 446.56208431534645 205.68248279722243' stroke = 'black' stroke-width='1' />
+<circle cx='446.56208431534645' cy='205.68248279722243' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 485.5799485604364 183.92239587642726, L 472.3642203483898 210.34535856596426' stroke = 'black' stroke-width='1' />
+<circle cx='472.3642203483898' cy='210.34535856596426' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 528.283379939229 98.64874296216914, L 527.55761425243 166.5694438014889' stroke = 'black' stroke-width='4' />
+<path d='M 527.55761425243 166.5694438014889, L 487.53961835626217 171.29750832312922' stroke = 'black' stroke-width='3' />
+<path d='M 487.53961835626217 171.29750832312922, L 462.32951810345264 189.66452217305653' stroke = 'black' stroke-width='2' />
+<path d='M 462.32951810345264 189.66452217305653, L 459.8891573065182 245.4514252661943' stroke = 'black' stroke-width='1' />
+<circle cx='459.8891573065182' cy='245.4514252661943' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 462.32951810345264 189.66452217305653, L 459.5405343355276 256.4095669452035' stroke = 'black' stroke-width='1' />
+<circle cx='459.5405343355276' cy='256.4095669452035' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 487.53961835626217 171.29750832312922, L 457.9662315212356 231.64626811574752' stroke = 'black' stroke-width='2' />
+<path d='M 457.9662315212356 231.64626811574752, L 449.2520069609952 281.96650219247294' stroke = 'black' stroke-width='1' />
+<circle cx='449.2520069609952' cy='281.96650219247294' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 457.9662315212356 231.64626811574752, L 444.35025564585993 289.5145373039818' stroke = 'black' stroke-width='1' />
+<circle cx='444.35025564585993' cy='289.5145373039818' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 527.55761425243 166.5694438014889, L 491.23358720821614 206.75799223543171' stroke = 'black' stroke-width='3' />
+<path d='M 491.23358720821614 206.75799223543171, L 486.87647492809594 241.98215608913952' stroke = 'black' stroke-width='2' />
+<path d='M 486.87647492809594 241.98215608913952, L 445.54475610169396 260.8498955947088' stroke = 'black' stroke-width='1' />
+<circle cx='445.54475610169396' cy='260.8498955947088' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 486.87647492809594 241.98215608913952, L 448.8250512466465 251.0386710518128' stroke = 'black' stroke-width='1' />
+<circle cx='448.8250512466465' cy='251.0386710518128' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 491.23358720821614 206.75799223543171, L 457.4659670372845 227.72475643406733' stroke = 'black' stroke-width='2' />
+<path d='M 457.4659670372845 227.72475643406733, L 434.81349119478597 239.48046147991678' stroke = 'black' stroke-width='1' />
+<circle cx='434.81349119478597' cy='239.48046147991678' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 457.4659670372845 227.72475643406733, L 428.34135523978637 242.41938774137915' stroke = 'black' stroke-width='1' />
+<circle cx='428.34135523978637' cy='242.41938774137915' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 502.54766325928256 25.98842571336282, L 507.33594526584193 91.7669091683764' stroke = 'black' stroke-width='7' />
+<path d='M 507.33594526584193 91.7669091683764, L 526.8575367546424 108.69603312795539' stroke = 'black' stroke-width='6' />
+<path d='M 526.8575367546424 108.69603312795539, L 529.5855301948924 150.3831941202481' stroke = 'black' stroke-width='5' />
+<path d='M 529.5855301948924 150.3831941202481, L 583.924619970932 196.30732614958362' stroke = 'black' stroke-width='4' />
+<path d='M 583.924619970932 196.30732614958362, L 626.0890861712711 252.2618353744855' stroke = 'black' stroke-width='3' />
+<path d='M 626.0890861712711 252.2618353744855, L 678.0866613838874 290.93120686055244' stroke = 'black' stroke-width='2' />
+<path d='M 678.0866613838874 290.93120686055244, L 731.5588208190497 311.6395016858467' stroke = 'black' stroke-width='1' />
+<circle cx='731.5588208190497' cy='311.6395016858467' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 678.0866613838874 290.93120686055244, L 735.1840519671964 316.7109208267351' stroke = 'black' stroke-width='1' />
+<circle cx='735.1840519671964' cy='316.7109208267351' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 626.0890861712711 252.2618353744855, L 655.442556049361 288.2080116854773' stroke = 'black' stroke-width='2' />
+<path d='M 655.442556049361 288.2080116854773, L 673.2409299256099 321.71177106614823' stroke = 'black' stroke-width='1' />
+<circle cx='673.2409299256099' cy='321.71177106614823' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 655.442556049361 288.2080116854773, L 661.1056750099856 303.4904282450816' stroke = 'black' stroke-width='1' />
+<circle cx='661.1056750099856' cy='303.4904282450816' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 583.924619970932 196.30732614958362, L 605.9508336576763 224.28458076203458' stroke = 'black' stroke-width='3' />
+<path d='M 605.9508336576763 224.28458076203458, L 645.6706251857115 229.87502933236564' stroke = 'black' stroke-width='2' />
+<path d='M 645.6706251857115 229.87502933236564, L 658.2506837048928 240.76781003266618' stroke = 'black' stroke-width='1' />
+<circle cx='658.2506837048928' cy='240.76781003266618' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 645.6706251857115 229.87502933236564, L 665.7987188164017 244.03564424275635' stroke = 'black' stroke-width='1' />
+<circle cx='665.7987188164017' cy='244.03564424275635' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 605.9508336576763 224.28458076203458, L 625.8107294216938 278.5917954452505' stroke = 'black' stroke-width='2' />
+<path d='M 625.8107294216938 278.5917954452505, L 631.4243450737733 346.0839798958831' stroke = 'black' stroke-width='1' />
+<circle cx='631.4243450737733' cy='346.0839798958831' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 625.8107294216938 278.5917954452505, L 636.8300490350351 319.6739946760704' stroke = 'black' stroke-width='1' />
+<circle cx='636.8300490350351' cy='319.6739946760704' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 529.5855301948924 150.3831941202481, L 534.113787676229 191.05885391765955' stroke = 'black' stroke-width='4' />
+<path d='M 534.113787676229 191.05885391765955, L 534.6729805796997 219.24613138453097' stroke = 'black' stroke-width='3' />
+<path d='M 534.6729805796997 219.24613138453097, L 548.5180291827961 230.12617484492856' stroke = 'black' stroke-width='2' />
+<path d='M 548.5180291827961 230.12617484492856, L 585.6018280828711 240.45454922621815' stroke = 'black' stroke-width='1' />
+<circle cx='585.6018280828711' cy='240.45454922621815' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 548.5180291827961 230.12617484492856, L 567.9428762256925 247.9660942307924' stroke = 'black' stroke-width='1' />
+<circle cx='567.9428762256925' cy='247.9660942307924' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 534.6729805796997 219.24613138453097, L 556.699194266444 236.34334253658432' stroke = 'black' stroke-width='2' />
+<path d='M 556.699194266444 236.34334253658432, L 560.3559627745399 239.07133597683432' stroke = 'black' stroke-width='1' />
+<circle cx='560.3559627745399' cy='239.07133597683432' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 556.699194266444 236.34334253658432, L 603.5058311700709 254.75729825827176' stroke = 'black' stroke-width='1' />
+<circle cx='603.5058311700709' cy='254.75729825827176' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 534.113787676229 191.05885391765955, L 564.3102044636494 225.04939439241625' stroke = 'black' stroke-width='3' />
+<path d='M 564.3102044636494 225.04939439241625, L 566.8153202809306 278.523870104461' stroke = 'black' stroke-width='2' />
+<path d='M 566.8153202809306 278.523870104461, L 572.1318205885377 313.39068453767214' stroke = 'black' stroke-width='1' />
+<circle cx='572.1318205885377' cy='313.39068453767214' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 566.8153202809306 278.523870104461, L 569.7786155343509 319.3678527262226' stroke = 'black' stroke-width='1' />
+<circle cx='569.7786155343509' cy='319.3678527262226' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 564.3102044636494 225.04939439241625, L 573.6348022279738 259.7087767983712' stroke = 'black' stroke-width='2' />
+<path d='M 573.6348022279738 259.7087767983712, L 578.3412123363473 318.4842639857842' stroke = 'black' stroke-width='1' />
+<circle cx='578.3412123363473' cy='318.4842639857842' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 573.6348022279738 259.7087767983712, L 574.4192039127026 292.5832018353988' stroke = 'black' stroke-width='1' />
+<circle cx='574.4192039127026' cy='292.5832018353988' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 526.8575367546424 108.69603312795539, L 532.3135236351424 147.45777931377143' stroke = 'black' stroke-width='5' />
+<path d='M 532.3135236351424 147.45777931377143, L 539.0428188078079 208.31110636998272' stroke = 'black' stroke-width='4' />
+<path d='M 539.0428188078079 208.31110636998272, L 545.4566318744573 253.74477003735905' stroke = 'black' stroke-width='3' />
+<path d='M 545.4566318744573 253.74477003735905, L 550.491195002856 280.944878688353' stroke = 'black' stroke-width='2' />
+<path d='M 550.491195002856 280.944878688353, L 594.6197972048324 292.02678524421486' stroke = 'black' stroke-width='1' />
+<circle cx='594.6197972048324' cy='292.02678524421486' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 550.491195002856 280.944878688353, L 581.2236143935181 285.2545090156326' stroke = 'black' stroke-width='1' />
+<circle cx='581.2236143935181' cy='285.2545090156326' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 545.4566318744573 253.74477003735905, L 574.4053698627499 294.15636003312153' stroke = 'black' stroke-width='2' />
+<path d='M 574.4053698627499 294.15636003312153, L 605.7201724571117 351.3599525394194' stroke = 'black' stroke-width='1' />
+<circle cx='605.7201724571117' cy='351.3599525394194' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 574.4053698627499 294.15636003312153, L 613.5488731057022 319.0274872097728' stroke = 'black' stroke-width='1' />
+<circle cx='613.5488731057022' cy='319.0274872097728' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 539.0428188078079 208.31110636998272, L 543.7358527590147 268.56009514628613' stroke = 'black' stroke-width='3' />
+<path d='M 543.7358527590147 268.56009514628613, L 543.0399872542145 270.54063128376924' stroke = 'black' stroke-width='2' />
+<path d='M 543.0399872542145 270.54063128376924, L 544.6242887184814 295.3542850748023' stroke = 'black' stroke-width='1' />
+<circle cx='544.6242887184814' cy='295.3542850748023' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 543.0399872542145 270.54063128376924, L 544.9898967486968 291.384100468237' stroke = 'black' stroke-width='1' />
+<circle cx='544.9898967486968' cy='291.384100468237' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 543.7358527590147 268.56009514628613, L 534.6896011966105 326.9859112020388' stroke = 'black' stroke-width='2' />
+<path d='M 534.6896011966105 326.9859112020388, L 505.7571055085314 350.3545564058171' stroke = 'black' stroke-width='1' />
+<circle cx='505.7571055085314' cy='350.3545564058171' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 534.6896011966105 326.9859112020388, L 523.7303225268836 374.62199565589464' stroke = 'black' stroke-width='1' />
+<circle cx='523.7303225268836' cy='374.62199565589464' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 532.3135236351424 147.45777931377143, L 543.9603806647558 208.31110636998272' stroke = 'black' stroke-width='4' />
+<path d='M 543.9603806647558 208.31110636998272, L 558.5789659008926 215.00523966172398' stroke = 'black' stroke-width='3' />
+<path d='M 558.5789659008926 215.00523966172398, L 573.3548413087084 242.58561603795926' stroke = 'black' stroke-width='2' />
+<path d='M 573.3548413087084 242.58561603795926, L 576.7095235804901 274.1746800688308' stroke = 'black' stroke-width='1' />
+<circle cx='576.7095235804901' cy='274.1746800688308' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 573.3548413087084 242.58561603795926, L 615.2883697059796 252.93375770324477' stroke = 'black' stroke-width='1' />
+<circle cx='615.2883697059796' cy='252.93375770324477' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 558.5789659008926 215.00523966172398, L 593.0560085191295 239.43357302353235' stroke = 'black' stroke-width='2' />
+<path d='M 593.0560085191295 239.43357302353235, L 619.4405245912776 285.3060875037159' stroke = 'black' stroke-width='1' />
+<circle cx='619.4405245912776' cy='285.3060875037159' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 593.0560085191295 239.43357302353235, L 615.4254895368202 259.09322208646813' stroke = 'black' stroke-width='1' />
+<circle cx='615.4254895368202' cy='259.09322208646813' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 543.9603806647558 208.31110636998272, L 554.1933903300516 270.47091550758' stroke = 'black' stroke-width='3' />
+<path d='M 554.1933903300516 270.47091550758, L 565.1332255230682 284.25822404975094' stroke = 'black' stroke-width='2' />
+<path d='M 565.1332255230682 284.25822404975094, L 566.4273207485808 291.0197048337744' stroke = 'black' stroke-width='1' />
+<circle cx='566.4273207485808' cy='291.0197048337744' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 565.1332255230682 284.25822404975094, L 573.6742540114514 343.1796994533841' stroke = 'black' stroke-width='1' />
+<circle cx='573.6742540114514' cy='343.1796994533841' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 554.1933903300516 270.47091550758, L 560.7920210813949 333.4986117003613' stroke = 'black' stroke-width='2' />
+<path d='M 560.7920210813949 333.4986117003613, L 564.9672141101968 396.8757680998218' stroke = 'black' stroke-width='1' />
+<circle cx='564.9672141101968' cy='396.8757680998218' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 560.7920210813949 333.4986117003613, L 568.4465416341984 369.1482621750579' stroke = 'black' stroke-width='1' />
+<circle cx='568.4465416341984' cy='369.1482621750579' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 507.33594526584193 91.7669091683764, L 509.1519072648001 153.2463593373738' stroke = 'black' stroke-width='6' />
+<path d='M 509.1519072648001 153.2463593373738, L 509.20426448411195 173.24331324050164' stroke = 'black' stroke-width='5' />
+<path d='M 509.20426448411195 173.24331324050164, L 529.4899410476655 228.52808824973727' stroke = 'black' stroke-width='4' />
+<path d='M 529.4899410476655 228.52808824973727, L 572.904999394982 243.44107559486446' stroke = 'black' stroke-width='3' />
+<path d='M 572.904999394982 243.44107559486446, L 573.8560559112772 252.40256843173793' stroke = 'black' stroke-width='2' />
+<path d='M 573.8560559112772 252.40256843173793, L 618.489659319973 265.70827268971965' stroke = 'black' stroke-width='1' />
+<circle cx='618.489659319973' cy='265.70827268971965' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 573.8560559112772 252.40256843173793, L 588.4104918054171 256.5152406569323' stroke = 'black' stroke-width='1' />
+<circle cx='588.4104918054171' cy='256.5152406569323' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 572.904999394982 243.44107559486446, L 595.7303557860657 260.12799329111164' stroke = 'black' stroke-width='2' />
+<path d='M 595.7303557860657 260.12799329111164, L 611.7684732214564 262.8519362895489' stroke = 'black' stroke-width='1' />
+<circle cx='611.7684732214564' cy='262.8519362895489' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 595.7303557860657 260.12799329111164, L 615.3324993182098 269.66179378564215' stroke = 'black' stroke-width='1' />
+<circle cx='615.3324993182098' cy='269.66179378564215' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 529.4899410476655 228.52808824973727, L 572.0858473506931 239.99961697675818' stroke = 'black' stroke-width='3' />
+<path d='M 572.0858473506931 239.99961697675818, L 623.7453912117821 256.0591109229048' stroke = 'black' stroke-width='2' />
+<path d='M 623.7453912117821 256.0591109229048, L 668.4099680356417 256.0591109229048' stroke = 'black' stroke-width='1' />
+<circle cx='668.4099680356417' cy='256.0591109229048' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 623.7453912117821 256.0591109229048, L 631.6857604249127 257.15593501355113' stroke = 'black' stroke-width='1' />
+<circle cx='631.6857604249127' cy='257.15593501355113' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 572.0858473506931 239.99961697675818, L 590.2120030914261 243.38056307068376' stroke = 'black' stroke-width='2' />
+<path d='M 590.2120030914261 243.38056307068376, L 620.2322212486297 255.11735214033104' stroke = 'black' stroke-width='1' />
+<circle cx='620.2322212486297' cy='255.11735214033104' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 590.2120030914261 243.38056307068376, L 631.7105399557958 257.9341815170464' stroke = 'black' stroke-width='1' />
+<circle cx='631.7105399557958' cy='257.9341815170464' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 509.20426448411195 173.24331324050164, L 511.7399740545561 187.74423783308802' stroke = 'black' stroke-width='4' />
+<path d='M 511.7399740545561 187.74423783308802, L 540.3556143231492 210.64153642931151' stroke = 'black' stroke-width='3' />
+<path d='M 540.3556143231492 210.64153642931151, L 560.0734199601566 266.2672347794239' stroke = 'black' stroke-width='2' />
+<path d='M 560.0734199601566 266.2672347794239, L 570.1441771648977 282.93903567043986' stroke = 'black' stroke-width='1' />
+<circle cx='570.1441771648977' cy='282.93903567043986' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 560.0734199601566 266.2672347794239, L 599.6371089787824 285.0230107818168' stroke = 'black' stroke-width='1' />
+<circle cx='599.6371089787824' cy='285.0230107818168' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 540.3556143231492 210.64153642931151, L 566.1765502763732 233.59817384364362' stroke = 'black' stroke-width='2' />
+<path d='M 566.1765502763732 233.59817384364362, L 566.2463067501174 299.43740116079204' stroke = 'black' stroke-width='1' />
+<circle cx='566.2463067501174' cy='299.43740116079204' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 566.1765502763732 233.59817384364362, L 570.3619387010207 242.57625029598205' stroke = 'black' stroke-width='1' />
+<circle cx='570.3619387010207' cy='242.57625029598205' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 511.7399740545561 187.74423783308802, L 512.7998125830226 238.62712360247357' stroke = 'black' stroke-width='3' />
+<path d='M 512.7998125830226 238.62712360247357, L 523.1475610828404 262.0120051573192' stroke = 'black' stroke-width='2' />
+<path d='M 523.1475610828404 262.0120051573192, L 525.4630786075383 262.0120051573192' stroke = 'black' stroke-width='1' />
+<circle cx='525.4630786075383' cy='262.0120051573192' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 523.1475610828404 262.0120051573192, L 528.0223348190464 274.9151051286564' stroke = 'black' stroke-width='1' />
+<circle cx='528.0223348190464' cy='274.9151051286564' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 512.7998125830226 238.62712360247357, L 516.8489315612121 297.0893274895877' stroke = 'black' stroke-width='2' />
+<path d='M 516.8489315612121 297.0893274895877, L 510.32535098524005 352.6284211823461' stroke = 'black' stroke-width='1' />
+<circle cx='510.32535098524005' cy='352.6284211823461' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 516.8489315612121 297.0893274895877, L 515.7241762894928 340.93598040492327' stroke = 'black' stroke-width='1' />
+<circle cx='515.7241762894928' cy='340.93598040492327' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 509.1519072648001 153.2463593373738, L 510.3910281218472 189.2408763630039' stroke = 'black' stroke-width='5' />
+<path d='M 510.3910281218472 189.2408763630039, L 491.6121656104116 198.9532998844521' stroke = 'black' stroke-width='4' />
+<path d='M 491.6121656104116 198.9532998844521, L 475.50408209352736 223.98726395775535' stroke = 'black' stroke-width='3' />
+<path d='M 475.50408209352736 223.98726395775535, L 457.33149683867725 237.5818807633051' stroke = 'black' stroke-width='2' />
+<path d='M 457.33149683867725 237.5818807633051, L 450.29833652587035 293.73267682390394' stroke = 'black' stroke-width='1' />
+<circle cx='450.29833652587035' cy='293.73267682390394' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 457.33149683867725 237.5818807633051, L 445.2188318555098 259.67399724616365' stroke = 'black' stroke-width='1' />
+<circle cx='445.2188318555098' cy='259.67399724616365' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 475.50408209352736 223.98726395775535, L 467.47433512045404 261.145883226258' stroke = 'black' stroke-width='2' />
+<path d='M 467.47433512045404 261.145883226258, L 449.4908401119878 281.2909759695689' stroke = 'black' stroke-width='1' />
+<circle cx='449.4908401119878' cy='281.2909759695689' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 467.47433512045404 261.145883226258, L 465.3163157194381 302.1307270833388' stroke = 'black' stroke-width='1' />
+<circle cx='465.3163157194381' cy='302.1307270833388' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 491.6121656104116 198.9532998844521, L 472.881835939616 198.9532998844521' stroke = 'black' stroke-width='3' />
+<path d='M 472.881835939616 198.9532998844521, L 459.72510922709284 221.90461402756495' stroke = 'black' stroke-width='2' />
+<path d='M 459.72510922709284 221.90461402756495, L 458.03463618013006 268.1263111664341' stroke = 'black' stroke-width='1' />
+<circle cx='458.03463618013006' cy='268.1263111664341' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 459.72510922709284 221.90461402756495, L 432.6775404756881 269.9389267405074' stroke = 'black' stroke-width='1' />
+<circle cx='432.6775404756881' cy='269.9389267405074' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 472.881835939616 198.9532998844521, L 467.91151695932945 228.5987473193062' stroke = 'black' stroke-width='2' />
+<path d='M 467.91151695932945 228.5987473193062, L 446.18482712576804 282.8738254733175' stroke = 'black' stroke-width='1' />
+<circle cx='446.18482712576804' cy='282.8738254733175' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 467.91151695932945 228.5987473193062, L 449.3643427111673 285.4179697617867' stroke = 'black' stroke-width='1' />
+<circle cx='449.3643427111673' cy='285.4179697617867' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 510.3910281218472 189.2408763630039, L 485.50903529419503 240.45183674882168' stroke = 'black' stroke-width='4' />
+<path d='M 485.50903529419503 240.45183674882168, L 460.8452485311 256.8348776346015' stroke = 'black' stroke-width='3' />
+<path d='M 460.8452485311 256.8348776346015, L 425.49192999834037 256.8348776346015' stroke = 'black' stroke-width='2' />
+<path d='M 425.49192999834037 256.8348776346015, L 412.88309406299055 277.84642316038133' stroke = 'black' stroke-width='1' />
+<circle cx='412.88309406299055' cy='277.84642316038133' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 425.49192999834037 256.8348776346015, L 397.42710162611013 276.01933224509617' stroke = 'black' stroke-width='1' />
+<circle cx='397.42710162611013' cy='276.01933224509617' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 460.8452485311 256.8348776346015, L 429.3486556564596 299.7333664492643' stroke = 'black' stroke-width='2' />
+<path d='M 429.3486556564596 299.7333664492643, L 377.25763352436906 329.3015964948451' stroke = 'black' stroke-width='1' />
+<circle cx='377.25763352436906' cy='329.3015964948451' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 429.3486556564596 299.7333664492643, L 400.23896681793843 320.30256995923355' stroke = 'black' stroke-width='1' />
+<circle cx='400.23896681793843' cy='320.30256995923355' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 485.50903529419503 240.45183674882168, L 464.28670714920634 291.2392634947392' stroke = 'black' stroke-width='3' />
+<path d='M 464.28670714920634 291.2392634947392, L 447.9187465077064 334.3891318902703' stroke = 'black' stroke-width='2' />
+<path d='M 447.9187465077064 334.3891318902703, L 426.7568164679912 354.2450219778559' stroke = 'black' stroke-width='1' />
+<circle cx='426.7568164679912' cy='354.2450219778559' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 447.9187465077064 334.3891318902703, L 433.5937477115915 363.7002077338491' stroke = 'black' stroke-width='1' />
+<circle cx='433.5937477115915' cy='363.7002077338491' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 464.28670714920634 291.2392634947392, L 434.9607776665189 335.1204855918894' stroke = 'black' stroke-width='2' />
+<path d='M 434.9607776665189 335.1204855918894, L 382.3817957048205 343.59919381962067' stroke = 'black' stroke-width='1' />
+<circle cx='382.3817957048205' cy='343.59919381962067' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 434.9607776665189 335.1204855918894, L 415.45567145492106 351.54798278311875' stroke = 'black' stroke-width='1' />
+<circle cx='415.45567145492106' cy='351.54798278311875' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 500.0 7.0, L 501.57047735161257 53.9713688698975' stroke = 'black' stroke-width='8' />
+<path d='M 501.57047735161257 53.9713688698975, L 499.1512583956159 116.07029535156127' stroke = 'black' stroke-width='7' />
+<path d='M 499.1512583956159 116.07029535156127, L 506.03437485738607 165.45471238131816' stroke = 'black' stroke-width='6' />
+<path d='M 506.03437485738607 165.45471238131816, L 537.8137098391544 223.37013645356208' stroke = 'black' stroke-width='5' />
+<path d='M 537.8137098391544 223.37013645356208, L 590.6104303308048 244.91828808996013' stroke = 'black' stroke-width='4' />
+<path d='M 590.6104303308048 244.91828808996013, L 616.3574001180856 251.18107763316308' stroke = 'black' stroke-width='3' />
+<path d='M 616.3574001180856 251.18107763316308, L 640.1785077574773 256.17772071277415' stroke = 'black' stroke-width='2' />
+<path d='M 640.1785077574773 256.17772071277415, L 696.7536384010326 253.25285647105062' stroke = 'black' stroke-width='1' />
+<circle cx='696.7536384010326' cy='253.25285647105062' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 640.1785077574773 256.17772071277415, L 642.1636000607599 253.25285647105062' stroke = 'black' stroke-width='1' />
+<circle cx='642.1636000607599' cy='253.25285647105062' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 616.3574001180856 251.18107763316308, L 667.9698000034343 256.54332874298956' stroke = 'black' stroke-width='2' />
+<path d='M 667.9698000034343 256.54332874298956, L 672.7761084831259 267.8444603314865' stroke = 'black' stroke-width='1' />
+<circle cx='672.7761084831259' cy='267.8444603314865' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 667.9698000034343 256.54332874298956, L 678.5436786587559 258.19715287789154' stroke = 'black' stroke-width='1' />
+<circle cx='678.5436786587559' cy='258.19715287789154' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 590.6104303308048 244.91828808996013, L 650.026514455299 248.95430801780202' stroke = 'black' stroke-width='3' />
+<path d='M 650.026514455299 248.95430801780202, L 710.8941314981888 252.97152894467635' stroke = 'black' stroke-width='2' />
+<path d='M 710.8941314981888 252.97152894467635, L 720.4046966611403 273.05763357904794' stroke = 'black' stroke-width='1' />
+<circle cx='720.4046966611403' cy='273.05763357904794' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 710.8941314981888 252.97152894467635, L 769.8596355084883 274.60271855092265' stroke = 'black' stroke-width='1' />
+<circle cx='769.8596355084883' cy='274.60271855092265' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 650.026514455299 248.95430801780202, L 654.7817970367747 267.1863106859239' stroke = 'black' stroke-width='2' />
+<path d='M 654.7817970367747 267.1863106859239, L 679.3224766229663 270.8116815980783' stroke = 'black' stroke-width='1' />
+<circle cx='679.3224766229663' cy='270.8116815980783' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 654.7817970367747 267.1863106859239, L 719.5691911443205 272.7197715518437' stroke = 'black' stroke-width='1' />
+<circle cx='719.5691911443205' cy='272.7197715518437' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 537.8137098391544 223.37013645356208, L 566.1820969689963 260.92548644842725' stroke = 'black' stroke-width='4' />
+<path d='M 566.1820969689963 260.92548644842725, L 592.4045585081102 310.066230740467' stroke = 'black' stroke-width='3' />
+<path d='M 592.4045585081102 310.066230740467, L 596.7141888353898 326.61445656620816' stroke = 'black' stroke-width='2' />
+<path d='M 596.7141888353898 326.61445656620816, L 606.7796610978633 353.1436588879695' stroke = 'black' stroke-width='1' />
+<circle cx='606.7796610978633' cy='353.1436588879695' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 596.7141888353898 326.61445656620816, L 616.2859404568659 368.06633519396024' stroke = 'black' stroke-width='1' />
+<circle cx='616.2859404568659' cy='368.06633519396024' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 592.4045585081102 310.066230740467, L 606.5647724406003 311.64225224768046' stroke = 'black' stroke-width='2' />
+<path d='M 606.5647724406003 311.64225224768046, L 614.5943397169067 354.7446521253693' stroke = 'black' stroke-width='1' />
+<circle cx='614.5943397169067' cy='354.7446521253693' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 606.5647724406003 311.64225224768046, L 631.3226048758781 326.50514875722837' stroke = 'black' stroke-width='1' />
+<circle cx='631.3226048758781' cy='326.50514875722837' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 566.1820969689963 260.92548644842725, L 577.4202947714737 283.17789895803014' stroke = 'black' stroke-width='3' />
+<path d='M 577.4202947714737 283.17789895803014, L 609.9025393279783 324.28502519358176' stroke = 'black' stroke-width='2' />
+<path d='M 609.9025393279783 324.28502519358176, L 629.9777146002649 375.0724519394993' stroke = 'black' stroke-width='1' />
+<circle cx='629.9777146002649' cy='375.0724519394993' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 609.9025393279783 324.28502519358176, L 617.3590330005419 345.58297834509557' stroke = 'black' stroke-width='1' />
+<circle cx='617.3590330005419' cy='345.58297834509557' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 577.4202947714737 283.17789895803014, L 588.0861064168931 326.03426460786056' stroke = 'black' stroke-width='2' />
+<path d='M 588.0861064168931 326.03426460786056, L 604.0730730542791 374.09734940477654' stroke = 'black' stroke-width='1' />
+<circle cx='604.0730730542791' cy='374.09734940477654' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 588.0861064168931 326.03426460786056, L 599.1116006495731 391.40005993166625' stroke = 'black' stroke-width='1' />
+<circle cx='599.1116006495731' cy='391.40005993166625' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 506.03437485738607 165.45471238131816, L 514.6601943524374 176.14679067157857' stroke = 'black' stroke-width='5' />
+<path d='M 514.6601943524374 176.14679067157857, L 524.5822621120178 192.83445279018886' stroke = 'black' stroke-width='4' />
+<path d='M 524.5822621120178 192.83445279018886, L 526.7741178459632 197.3284230216847' stroke = 'black' stroke-width='3' />
+<path d='M 526.7741178459632 197.3284230216847, L 531.4599528948522 230.97258237952587' stroke = 'black' stroke-width='2' />
+<path d='M 531.4599528948522 230.97258237952587, L 543.4962533578932 255.73028319099194' stroke = 'black' stroke-width='1' />
+<circle cx='543.4962533578932' cy='255.73028319099194' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 531.4599528948522 230.97258237952587, L 554.3289237746301 278.09207747231613' stroke = 'black' stroke-width='1' />
+<circle cx='554.3289237746301' cy='278.09207747231613' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 526.7741178459632 197.3284230216847, L 536.6970626553752 203.0959931973146' stroke = 'black' stroke-width='2' />
+<path d='M 536.6970626553752 203.0959931973146, L 549.5983088390061 229.23624513923625' stroke = 'black' stroke-width='1' />
+<circle cx='549.5983088390061' cy='229.23624513923625' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 536.6970626553752 203.0959931973146, L 553.5403562840044 262.84514049313555' stroke = 'black' stroke-width='1' />
+<circle cx='553.5403562840044' cy='262.84514049313555' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 524.5822621120178 192.83445279018886, L 554.8298712404642 256.6488300774297' stroke = 'black' stroke-width='3' />
+<path d='M 554.8298712404642 256.6488300774297, L 558.9455031913676 306.5270325904209' stroke = 'black' stroke-width='2' />
+<path d='M 558.9455031913676 306.5270325904209, L 561.7414677087213 306.5270325904209' stroke = 'black' stroke-width='1' />
+<circle cx='561.7414677087213' cy='306.5270325904209' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 558.9455031913676 306.5270325904209, L 580.194833523256 310.67222045319613' stroke = 'black' stroke-width='1' />
+<circle cx='580.194833523256' cy='310.67222045319613' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 554.8298712404642 256.6488300774297, L 557.9689125589498 266.62447058002795' stroke = 'black' stroke-width='2' />
+<path d='M 557.9689125589498 266.62447058002795, L 567.8242838564844 284.4028607107404' stroke = 'black' stroke-width='1' />
+<circle cx='567.8242838564844' cy='284.4028607107404' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 557.9689125589498 266.62447058002795, L 559.3768227443119 292.30436743550155' stroke = 'black' stroke-width='1' />
+<circle cx='559.3768227443119' cy='292.30436743550155' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 514.6601943524374 176.14679067157857, L 526.6811610611597 227.19140421085712' stroke = 'black' stroke-width='4' />
+<path d='M 526.6811610611597 227.19140421085712, L 519.7352339544825 280.3710228735163' stroke = 'black' stroke-width='3' />
+<path d='M 519.7352339544825 280.3710228735163, L 519.7875911737943 350.3603615344637' stroke = 'black' stroke-width='2' />
+<path d='M 519.7875911737943 350.3603615344637, L 515.7202950827483 409.621661970172' stroke = 'black' stroke-width='1' />
+<circle cx='515.7202950827483' cy='409.621661970172' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 519.7875911737943 350.3603615344637, L 512.4351713169035 395.79402520184004' stroke = 'black' stroke-width='1' />
+<circle cx='512.4351713169035' cy='395.79402520184004' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 519.7352339544825 280.3710228735163, L 520.258806147601 316.3655398991464' stroke = 'black' stroke-width='2' />
+<path d='M 520.258806147601 316.3655398991464, L 521.7212382684628 379.888493604191' stroke = 'black' stroke-width='1' />
+<circle cx='521.7212382684628' cy='379.888493604191' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 520.258806147601 316.3655398991464, L 522.9399317025143 341.1791936901795' stroke = 'black' stroke-width='1' />
+<circle cx='522.9399317025143' cy='341.1791936901795' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 526.6811610611597 227.19140421085712, L 519.3879375991487 286.2798693915896' stroke = 'black' stroke-width='3' />
+<path d='M 519.3879375991487 286.2798693915896, L 512.0786449810803 325.48836438607407' stroke = 'black' stroke-width='2' />
+<path d='M 512.0786449810803 325.48836438607407, L 507.5637923617401 353.0629814704159' stroke = 'black' stroke-width='1' />
+<circle cx='507.5637923617401' cy='353.0629814704159' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 512.0786449810803 325.48836438607407, L 510.5158113820779 335.3364419161961' stroke = 'black' stroke-width='1' />
+<circle cx='510.5158113820779' cy='335.3364419161961' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 519.3879375991487 286.2798693915896, L 518.5108224849805 295.84291695122' stroke = 'black' stroke-width='2' />
+<path d='M 518.5108224849805 295.84291695122, L 470.7709372806056 307.5445761771267' stroke = 'black' stroke-width='1' />
+<circle cx='470.7709372806056' cy='307.5445761771267' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 518.5108224849805 295.84291695122, L 510.3268421642305 347.03767606456194' stroke = 'black' stroke-width='1' />
+<circle cx='510.3268421642305' cy='347.03767606456194' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 499.1512583956159 116.07029535156127, L 500.40273411593773 133.84868548227377' stroke = 'black' stroke-width='6' />
+<path d='M 500.40273411593773 133.84868548227377, L 511.51285889540173 181.66392328042554' stroke = 'black' stroke-width='5' />
+<path d='M 511.51285889540173 181.66392328042554, L 528.8478389029949 189.12526143342092' stroke = 'black' stroke-width='4' />
+<path d='M 528.8478389029949 189.12526143342092, L 535.7703632045432 202.33674277818943' stroke = 'black' stroke-width='3' />
+<path d='M 535.7703632045432 202.33674277818943, L 560.5191005460723 222.8428394325993' stroke = 'black' stroke-width='2' />
+<path d='M 560.5191005460723 222.8428394325993, L 619.4405759497055 240.1837154544682' stroke = 'black' stroke-width='1' />
+<circle cx='619.4405759497055' cy='240.1837154544682' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 560.5191005460723 222.8428394325993, L 576.9398395929865 231.64268696608502' stroke = 'black' stroke-width='1' />
+<circle cx='576.9398395929865' cy='231.64268696608502' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 535.7703632045432 202.33674277818943, L 565.4688480143782 217.8930919642935' stroke = 'black' stroke-width='2' />
+<path d='M 565.4688480143782 217.8930919642935, L 618.0549526487498 237.87779054223756' stroke = 'black' stroke-width='1' />
+<circle cx='618.0549526487498' cy='237.87779054223756' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 565.4688480143782 217.8930919642935, L 585.6942728737519 224.94651499180316' stroke = 'black' stroke-width='1' />
+<circle cx='585.6942728737519' cy='224.94651499180316' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 528.8478389029949 189.12526143342092, L 564.7191011928356 213.21678623858702' stroke = 'black' stroke-width='3' />
+<path d='M 564.7191011928356 213.21678623858702, L 567.9869354029258 256.82765577174905' stroke = 'black' stroke-width='2' />
+<path d='M 567.9869354029258 256.82765577174905, L 620.4641178312896 266.03903855642943' stroke = 'black' stroke-width='1' />
+<circle cx='620.4641178312896' cy='266.03903855642943' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 567.9869354029258 256.82765577174905, L 598.5986251528047 266.5238481766758' stroke = 'black' stroke-width='1' />
+<circle cx='598.5986251528047' cy='266.5238481766758' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 564.7191011928356 213.21678623858702, L 599.5759994337974 232.50620930133178' stroke = 'black' stroke-width='2' />
+<path d='M 599.5759994337974 232.50620930133178, L 620.2327481963766 266.058217829971' stroke = 'black' stroke-width='1' />
+<circle cx='620.2327481963766' cy='266.058217829971' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 599.5759994337974 232.50620930133178, L 609.4349022523011 281.95127450143167' stroke = 'black' stroke-width='1' />
+<circle cx='609.4349022523011' cy='281.95127450143167' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 511.51285889540173 181.66392328042554, L 549.5379763314126 235.55136549650325' stroke = 'black' stroke-width='4' />
+<path d='M 549.5379763314126 235.55136549650325, L 565.7467433365903 257.8681672008512' stroke = 'black' stroke-width='3' />
+<path d='M 565.7467433365903 257.8681672008512, L 570.8961480721127 270.7416520944916' stroke = 'black' stroke-width='2' />
+<path d='M 570.8961480721127 270.7416520944916, L 577.9118830445032 279.4743136309756' stroke = 'black' stroke-width='1' />
+<circle cx='577.9118830445032' cy='279.4743136309756' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 570.8961480721127 270.7416520944916, L 580.3311020004998 335.75146575498337' stroke = 'black' stroke-width='1' />
+<circle cx='580.3311020004998' cy='335.75146575498337' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 565.7467433365903 257.8681672008512, L 572.9837445865137 304.410766431705' stroke = 'black' stroke-width='2' />
+<path d='M 572.9837445865137 304.410766431705, L 564.5362834743412 346.8813650772959' stroke = 'black' stroke-width='1' />
+<circle cx='564.5362834743412' cy='346.8813650772959' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 572.9837445865137 304.410766431705, L 564.0669800792206 343.9183000555105' stroke = 'black' stroke-width='1' />
+<circle cx='564.0669800792206' cy='343.9183000555105' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 549.5379763314126 235.55136549650325, L 557.5213988862016 264.66023728478314' stroke = 'black' stroke-width='3' />
+<path d='M 557.5213988862016 264.66023728478314, L 556.1857359185658 281.3478994033934' stroke = 'black' stroke-width='2' />
+<path d='M 556.1857359185658 281.3478994033934, L 561.1032977755137 323.8486357601124' stroke = 'black' stroke-width='1' />
+<circle cx='561.1032977755137' cy='323.8486357601124' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 556.1857359185658 281.3478994033934, L 558.5151073244884 297.76863845030755' stroke = 'black' stroke-width='1' />
+<circle cx='558.5151073244884' cy='297.76863845030755' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 557.5213988862016 264.66023728478314, L 549.1258030896337 270.5500003854691' stroke = 'black' stroke-width='2' />
+<path d='M 549.1258030896337 270.5500003854691, L 540.884039545446 309.9078872067419' stroke = 'black' stroke-width='1' />
+<circle cx='540.884039545446' cy='309.9078872067419' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 549.1258030896337 270.5500003854691, L 524.4005124570705 304.66016896390556' stroke = 'black' stroke-width='1' />
+<circle cx='524.4005124570705' cy='304.66016896390556' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 500.40273411593773 133.84868548227377, L 512.6823457142926 203.65893266757536' stroke = 'black' stroke-width='5' />
+<path d='M 512.6823457142926 203.65893266757536, L 540.9977692509195 213.6283183249785' stroke = 'black' stroke-width='4' />
+<path d='M 540.9977692509195 213.6283183249785, L 563.3595635322438 238.90454929736453' stroke = 'black' stroke-width='3' />
+<path d='M 563.3595635322438 238.90454929736453, L 607.2845165848449 278.6243408253997' stroke = 'black' stroke-width='2' />
+<path d='M 607.2845165848449 278.6243408253997, L 617.1871972722606 281.5469759455611' stroke = 'black' stroke-width='1' />
+<circle cx='617.1871972722606' cy='281.5469759455611' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 607.2845165848449 278.6243408253997, L 618.1774653410022 280.9902835417208' stroke = 'black' stroke-width='1' />
+<circle cx='618.1774653410022' cy='280.9902835417208' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 563.3595635322438 238.90454929736453, L 568.9500121025749 238.90454929736453' stroke = 'black' stroke-width='2' />
+<path d='M 568.9500121025749 238.90454929736453, L 594.3769751442114 275.31864574575684' stroke = 'black' stroke-width='1' />
+<circle cx='594.3769751442114' cy='275.31864574575684' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 568.9500121025749 238.90454929736453, L 582.332624229752 244.84970790118368' stroke = 'black' stroke-width='1' />
+<circle cx='582.332624229752' cy='244.84970790118368' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 540.9977692509195 213.6283183249785, L 544.990946801156 228.07187888062765' stroke = 'black' stroke-width='3' />
+<path d='M 544.990946801156 228.07187888062765, L 575.506598382239 262.5068350021258' stroke = 'black' stroke-width='2' />
+<path d='M 575.506598382239 262.5068350021258, L 622.7433675734508 276.8936310088988' stroke = 'black' stroke-width='1' />
+<circle cx='622.7433675734508' cy='276.8936310088988' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 575.506598382239 262.5068350021258, L 610.9341752756478 289.84174741499453' stroke = 'black' stroke-width='1' />
+<circle cx='610.9341752756478' cy='289.84174741499453' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 544.990946801156 228.07187888062765, L 559.0750936847328 280.1657868593043' stroke = 'black' stroke-width='2' />
+<path d='M 559.0750936847328 280.1657868593043, L 560.1643717547629 297.77786878615825' stroke = 'black' stroke-width='1' />
+<circle cx='560.1643717547629' cy='297.77786878615825' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 559.0750936847328 280.1657868593043, L 562.8875669298379 301.97122162588533' stroke = 'black' stroke-width='1' />
+<circle cx='562.8875669298379' cy='301.97122162588533' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 512.6823457142926 203.65893266757536, L 513.1049639760333 254.41216874162774' stroke = 'black' stroke-width='4' />
+<path d='M 513.1049639760333 254.41216874162774, L 517.2395243132884 314.9716555857418' stroke = 'black' stroke-width='3' />
+<path d='M 517.2395243132884 314.9716555857418, L 532.582514450906 354.51859362290514' stroke = 'black' stroke-width='2' />
+<path d='M 532.582514450906 354.51859362290514, L 536.0990946073096 391.3387877610028' stroke = 'black' stroke-width='1' />
+<circle cx='536.0990946073096' cy='391.3387877610028' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 532.582514450906 354.51859362290514, L 554.0727265178161 409.74888483005157' stroke = 'black' stroke-width='1' />
+<circle cx='554.0727265178161' cy='409.74888483005157' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 517.2395243132884 314.9716555857418, L 533.4592567444843 362.6077400395977' stroke = 'black' stroke-width='2' />
+<path d='M 533.4592567444843 362.6077400395977, L 535.609464441756 373.8107051575641' stroke = 'black' stroke-width='1' />
+<circle cx='535.609464441756' cy='373.8107051575641' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 533.4592567444843 362.6077400395977, L 536.684568290392 374.7442855840613' stroke = 'black' stroke-width='1' />
+<circle cx='536.684568290392' cy='374.7442855840613' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 513.1049639760333 254.41216874162774, L 528.2650185459682 291.90137488322216' stroke = 'black' stroke-width='3' />
+<path d='M 528.2650185459682 291.90137488322216, L 524.7920549926297 336.2177237687715' stroke = 'black' stroke-width='2' />
+<path d='M 524.7920549926297 336.2177237687715, L 524.3383615354971 354.20675865511527' stroke = 'black' stroke-width='1' />
+<circle cx='524.3383615354971' cy='354.20675865511527' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 524.7920549926297 336.2177237687715, L 524.2685625420921 383.189092638669' stroke = 'black' stroke-width='1' />
+<circle cx='524.2685625420921' cy='383.189092638669' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 528.2650185459682 291.90137488322216, L 523.2292213936273 335.2329160157593' stroke = 'black' stroke-width='2' />
+<path d='M 523.2292213936273 335.2329160157593, L 493.8583545587591 343.32206243245184' stroke = 'black' stroke-width='1' />
+<circle cx='493.8583545587591' cy='343.32206243245184' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 523.2292213936273 335.2329160157593, L 506.57111781564237 353.20879694174266' stroke = 'black' stroke-width='1' />
+<circle cx='506.57111781564237' cy='353.20879694174266' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 501.57047735161257 53.9713688698975, L 497.6997270220179 64.64462185893346' stroke = 'black' stroke-width='7' />
+<path d='M 497.6997270220179 64.64462185893346, L 485.32741903310534 89.00387347856434' stroke = 'black' stroke-width='6' />
+<path d='M 485.32741903310534 89.00387347856434, L 485.32741903310534 151.00387347856434' stroke = 'black' stroke-width='5' />
+<path d='M 485.32741903310534 151.00387347856434, L 501.89183791966667 183.84535157239267' stroke = 'black' stroke-width='4' />
+<path d='M 501.89183791966667 183.84535157239267, L 503.601938636295 195.12166302182357' stroke = 'black' stroke-width='3' />
+<path d='M 503.601938636295 195.12166302182357, L 520.9572040978315 197.4197963511805' stroke = 'black' stroke-width='2' />
+<path d='M 520.9572040978315 197.4197963511805, L 561.240232916796 237.70998183780233' stroke = 'black' stroke-width='1' />
+<circle cx='561.240232916796' cy='237.70998183780233' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 520.9572040978315 197.4197963511805, L 537.5020195056205 244.65656554239231' stroke = 'black' stroke-width='1' />
+<circle cx='537.5020195056205' cy='244.65656554239231' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 503.601938636295 195.12166302182357, L 540.8836199981143 197.4197963511805' stroke = 'black' stroke-width='2' />
+<path d='M 540.8836199981143 197.4197963511805, L 554.8137032829043 238.50199558200035' stroke = 'black' stroke-width='1' />
+<circle cx='554.8137032829043' cy='238.50199558200035' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 540.8836199981143 197.4197963511805, L 553.9820565196331 223.82978157099325' stroke = 'black' stroke-width='1' />
+<circle cx='553.9820565196331' cy='223.82978157099325' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 501.89183791966667 183.84535157239267, L 517.9667846559731 233.64906047404583' stroke = 'black' stroke-width='3' />
+<path d='M 517.9667846559731 233.64906047404583, L 520.8452622493351 295.5640916288294' stroke = 'black' stroke-width='2' />
+<path d='M 520.8452622493351 295.5640916288294, L 532.9413570293184 341.1679907638012' stroke = 'black' stroke-width='1' />
+<circle cx='532.9413570293184' cy='341.1679907638012' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 520.8452622493351 295.5640916288294, L 529.554450490923 355.7224266579411' stroke = 'black' stroke-width='1' />
+<circle cx='529.554450490923' cy='355.7224266579411' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 517.9667846559731 233.64906047404583, L 518.5948161308885 286.57642581603824' stroke = 'black' stroke-width='2' />
+<path d='M 518.5948161308885 286.57642581603824, L 510.87697763531617 315.088634590066' stroke = 'black' stroke-width='1' />
+<circle cx='510.87697763531617' cy='315.088634590066' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 518.5948161308885 286.57642581603824, L 489.5394241475575 316.87064763844273' stroke = 'black' stroke-width='1' />
+<circle cx='489.5394241475575' cy='316.87064763844273' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 485.32741903310534 151.00387347856434, L 493.8684475214885 164.5268350466113' stroke = 'black' stroke-width='4' />
+<path d='M 493.8684475214885 164.5268350466113, L 496.99411471949327 225.58491573336818' stroke = 'black' stroke-width='3' />
+<path d='M 496.99411471949327 225.58491573336818, L 509.15860983931174 249.73306139059488' stroke = 'black' stroke-width='2' />
+<path d='M 509.15860983931174 249.73306139059488, L 524.1586098393117 296.4984331949546' stroke = 'black' stroke-width='1' />
+<circle cx='524.1586098393117' cy='296.4984331949546' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 509.15860983931174 249.73306139059488, L 531.6586098393117 278.31189971548133' stroke = 'black' stroke-width='1' />
+<circle cx='531.6586098393117' cy='278.31189971548133' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 496.99411471949327 225.58491573336818, L 500.358762305826 278.71083617926695' stroke = 'black' stroke-width='2' />
+<path d='M 500.358762305826 278.71083617926695, L 495.73950794020016 314.57384531056977' stroke = 'black' stroke-width='1' />
+<circle cx='495.73950794020016' cy='314.57384531056977' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 500.358762305826 278.71083617926695, L 498.9642704218635 334.4977392724047' stroke = 'black' stroke-width='1' />
+<circle cx='498.9642704218635' cy='334.4977392724047' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 493.8684475214885 164.5268350466113, L 494.9103365874901 231.49376225144144' stroke = 'black' stroke-width='3' />
+<path d='M 494.9103365874901 231.49376225144144, L 498.53570749964445 297.26278354243493' stroke = 'black' stroke-width='2' />
+<path d='M 498.53570749964445 297.26278354243493, L 509.9333573161605 320.63142874621326' stroke = 'black' stroke-width='1' />
+<circle cx='509.9333573161605' cy='320.63142874621326' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 498.53570749964445 297.26278354243493, L 519.5775225455202 298.1615775887341' stroke = 'black' stroke-width='1' />
+<circle cx='519.5775225455202' cy='298.1615775887341' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 494.9103365874901 231.49376225144144, L 496.24599955512593 241.3100340859181' stroke = 'black' stroke-width='2' />
+<path d='M 496.24599955512593 241.3100340859181, L 478.323013881379 271.743842607363' stroke = 'black' stroke-width='1' />
+<circle cx='478.323013881379' cy='271.743842607363' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 496.24599955512593 241.3100340859181, L 480.4861328420036 241.3100340859181' stroke = 'black' stroke-width='1' />
+<circle cx='480.4861328420036' cy='241.3100340859181' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 485.32741903310534 89.00387347856434, L 485.32741903310534 151.00387347856434' stroke = 'black' stroke-width='5' />
+<path d='M 485.32741903310534 151.00387347856434, L 468.9167116365559 179.53952393559' stroke = 'black' stroke-width='4' />
+<path d='M 468.9167116365559 179.53952393559, L 456.55469405383076 224.0443489547958' stroke = 'black' stroke-width='3' />
+<path d='M 456.55469405383076 224.0443489547958, L 423.07721918467723 273.7600523955183' stroke = 'black' stroke-width='2' />
+<path d='M 423.07721918467723 273.7600523955183, L 400.2262169863066 328.4638998149588' stroke = 'black' stroke-width='1' />
+<circle cx='400.2262169863066' cy='328.4638998149588' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 423.07721918467723 273.7600523955183, L 408.84216863487256 296.0124649051212' stroke = 'black' stroke-width='1' />
+<circle cx='408.84216863487256' cy='296.0124649051212' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 456.55469405383076 224.0443489547958, L 456.55469405383076 242.90202957024226' stroke = 'black' stroke-width='2' />
+<path d='M 456.55469405383076 242.90202957024226, L 453.97950367928047 278.04588889902885' stroke = 'black' stroke-width='1' />
+<circle cx='453.97950367928047' cy='278.04588889902885' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 456.55469405383076 242.90202957024226, L 423.07721918467723 260.90254288498664' stroke = 'black' stroke-width='1' />
+<circle cx='423.07721918467723' cy='260.90254288498664' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 468.9167116365559 179.53952393559, L 445.6911028447693 182.32107549929037' stroke = 'black' stroke-width='3' />
+<path d='M 445.6911028447693 182.32107549929037, L 430.61938220373037 218.37276789634407' stroke = 'black' stroke-width='2' />
+<path d='M 430.61938220373037 218.37276789634407, L 426.4382436730242 242.24129338518264' stroke = 'black' stroke-width='1' />
+<circle cx='426.4382436730242' cy='242.24129338518264' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 430.61938220373037 218.37276789634407, L 430.30579681392743 271.08242835086253' stroke = 'black' stroke-width='1' />
+<circle cx='430.30579681392743' cy='271.08242835086253' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 445.6911028447693 182.32107549929037, L 445.24120073608157 189.141665952787' stroke = 'black' stroke-width='2' />
+<path d='M 445.24120073608157 189.141665952787, L 440.1697815951932 225.393977434253' stroke = 'black' stroke-width='1' />
+<circle cx='440.1697815951932' cy='225.393977434253' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 445.24120073608157 189.141665952787, L 441.86025464215595 221.76874628610642' stroke = 'black' stroke-width='1' />
+<circle cx='441.86025464215595' cy='221.76874628610642' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 485.32741903310534 151.00387347856434, L 479.4664521057662 169.41397054761316' stroke = 'black' stroke-width='4' />
+<path d='M 479.4664521057662 169.41397054761316, L 459.96485326983066 180.06294712337007' stroke = 'black' stroke-width='3' />
+<path d='M 459.96485326983066 180.06294712337007, L 431.64362344904924 205.2230641617328' stroke = 'black' stroke-width='2' />
+<path d='M 431.64362344904924 205.2230641617328, L 421.9474310441225 236.70937361875104' stroke = 'black' stroke-width='1' />
+<circle cx='421.9474310441225' cy='236.70937361875104' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 431.64362344904924 205.2230641617328, L 431.64362344904924 252.45252834726017' stroke = 'black' stroke-width='1' />
+<circle cx='431.64362344904924' cy='252.45252834726017' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 459.96485326983066 180.06294712337007, L 424.01867695883885 183.41762939515175' stroke = 'black' stroke-width='2' />
+<path d='M 424.01867695883885 183.41762939515175, L 390.5149175781679 216.5873261645246' stroke = 'black' stroke-width='1' />
+<circle cx='390.5149175781679' cy='216.5873261645246' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 424.01867695883885 183.41762939515175, L 393.4538438396302 219.82339414202437' stroke = 'black' stroke-width='1' />
+<circle cx='393.4538438396302' cy='219.82339414202437' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 479.4664521057662 169.41397054761316, L 463.97988832428797 212.82902889492973' stroke = 'black' stroke-width='3' />
+<path d='M 463.97988832428797 212.82902889492973, L 416.74311913307616 254.5507373145715' stroke = 'black' stroke-width='2' />
+<path d='M 416.74311913307616 254.5507373145715, L 407.71589378579546 277.711167105943' stroke = 'black' stroke-width='1' />
+<circle cx='407.71589378579546' cy='277.711167105943' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 416.74311913307616 254.5507373145715, L 405.9104487163393 299.2743258772199' stroke = 'black' stroke-width='1' />
+<circle cx='405.9104487163393' cy='299.2743258772199' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 463.97988832428797 212.82902889492973, L 452.170696026485 230.81252390339603' stroke = 'black' stroke-width='2' />
+<path d='M 452.170696026485 230.81252390339603, L 414.03025146403013 236.01453768173778' stroke = 'black' stroke-width='1' />
+<circle cx='414.03025146403013' cy='236.01453768173778' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 452.170696026485 230.81252390339603, L 410.6845984322358 236.75768250721518' stroke = 'black' stroke-width='1' />
+<circle cx='410.6845984322358' cy='236.75768250721518' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 497.6997270220179 64.64462185893346, L 484.6525658700737 72.43958237721534' stroke = 'black' stroke-width='6' />
+<path d='M 484.6525658700737 72.43958237721534, L 458.7900147692049 123.40765302283702' stroke = 'black' stroke-width='5' />
+<path d='M 458.7900147692049 123.40765302283702, L 432.4357227720568 174.73263071180855' stroke = 'black' stroke-width='4' />
+<path d='M 432.4357227720568 174.73263071180855, L 422.7597881343337 206.47436521271342' stroke = 'black' stroke-width='3' />
+<path d='M 422.7597881343337 206.47436521271342, L 424.64388255907966 255.40721241568752' stroke = 'black' stroke-width='2' />
+<path d='M 424.64388255907966 255.40721241568752, L 439.26570109143086 318.7412666267278' stroke = 'black' stroke-width='1' />
+<circle cx='439.26570109143086' cy='318.7412666267278' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 424.64388255907966 255.40721241568752, L 426.44349099383055 284.6383143592446' stroke = 'black' stroke-width='1' />
+<circle cx='426.44349099383055' cy='284.6383143592446' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 422.7597881343337 206.47436521271342, L 425.6382657276956 243.42365799863265' stroke = 'black' stroke-width='2' />
+<path d='M 425.6382657276956 243.42365799863265, L 407.8882987345863 300.5210485819416' stroke = 'black' stroke-width='1' />
+<circle cx='407.8882987345863' cy='300.5210485819416' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 425.6382657276956 243.42365799863265, L 402.3942613319572 251.5804280819625' stroke = 'black' stroke-width='1' />
+<circle cx='402.3942613319572' cy='251.5804280819625' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 432.4357227720568 174.73263071180855, L 414.1589573452465 177.53337199130016' stroke = 'black' stroke-width='3' />
+<path d='M 414.1589573452465 177.53337199130016, L 375.25808859954265 216.37772120958732' stroke = 'black' stroke-width='2' />
+<path d='M 375.25808859954265 216.37772120958732, L 331.76459918621686 229.75432806818043' stroke = 'black' stroke-width='1' />
+<circle cx='331.76459918621686' cy='229.75432806818043' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 375.25808859954265 216.37772120958732, L 366.5593907168775 264.68213486561797' stroke = 'black' stroke-width='1' />
+<circle cx='366.5593907168775' cy='264.68213486561797' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 414.1589573452465 177.53337199130016, L 390.5405727496406 217.09706100992597' stroke = 'black' stroke-width='2' />
+<path d='M 390.5405727496406 217.09706100992597, L 390.5405727496406 222.75391525941833' stroke = 'black' stroke-width='1' />
+<circle cx='390.5405727496406' cy='222.75391525941833' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 390.5405727496406 217.09706100992597, L 372.86290321997694 226.28944916535107' stroke = 'black' stroke-width='1' />
+<circle cx='372.86290321997694' cy='226.28944916535107' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 458.7900147692049 123.40765302283702, L 454.9332891110857 138.72854188521657' stroke = 'black' stroke-width='4' />
+<path d='M 454.9332891110857 138.72854188521657, L 419.45723290419204 153.0632598670286' stroke = 'black' stroke-width='3' />
+<path d='M 419.45723290419204 153.0632598670286, L 366.69395029529704 198.56414109943097' stroke = 'black' stroke-width='2' />
+<path d='M 366.69395029529704 198.56414109943097, L 365.7668993121722 238.50851478382742' stroke = 'black' stroke-width='1' />
+<circle cx='365.7668993121722' cy='238.50851478382742' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 366.69395029529704 198.56414109943097, L 347.84391363842525 221.38949749051466' stroke = 'black' stroke-width='1' />
+<circle cx='347.84391363842525' cy='221.38949749051466' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 419.45723290419204 153.0632598670286, L 369.66652959720665 185.18152897225377' stroke = 'black' stroke-width='2' />
+<path d='M 369.66652959720665 185.18152897225377, L 339.23272107576173 205.26763360662537' stroke = 'black' stroke-width='1' />
+<circle cx='339.23272107576173' cy='205.26763360662537' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 369.66652959720665 185.18152897225377, L 318.30947771726835 195.68810678100198' stroke = 'black' stroke-width='1' />
+<circle cx='318.30947771726835' cy='195.68810678100198' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 454.9332891110857 138.72854188521657, L 400.78562437424796 148.04610857339438' stroke = 'black' stroke-width='3' />
+<path d='M 400.78562437424796 148.04610857339438, L 371.12542084637545 160.32050068348855' stroke = 'black' stroke-width='2' />
+<path d='M 371.12542084637545 160.32050068348855, L 343.72496857630887 205.08852960146078' stroke = 'black' stroke-width='1' />
+<circle cx='343.72496857630887' cy='205.08852960146078' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 371.12542084637545 160.32050068348855, L 365.533491811668 193.48200358569022' stroke = 'black' stroke-width='1' />
+<circle cx='365.533491811668' cy='193.48200358569022' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 400.78562437424796 148.04610857339438, L 372.9230089389738 162.950727564223' stroke = 'black' stroke-width='2' />
+<path d='M 372.9230089389738 162.950727564223, L 314.58841882522864 172.5989938200733' stroke = 'black' stroke-width='1' />
+<circle cx='314.58841882522864' cy='172.5989938200733' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 372.9230089389738 162.950727564223, L 315.54472358119165 181.37014496175541' stroke = 'black' stroke-width='1' />
+<circle cx='315.54472358119165' cy='181.37014496175541' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 484.6525658700737 72.43958237721534, L 484.06478061778125 89.42893925908925' stroke = 'black' stroke-width='5' />
+<path d='M 484.06478061778125 89.42893925908925, L 420.4925539319385 95.53206957530583' stroke = 'black' stroke-width='4' />
+<path d='M 420.4925539319385 95.53206957530583, L 366.49101398770546 117.1636687215281' stroke = 'black' stroke-width='3' />
+<path d='M 366.49101398770546 117.1636687215281, L 318.3869300950387 141.8889593540913' stroke = 'black' stroke-width='2' />
+<path d='M 318.3869300950387 141.8889593540913, L 304.3351873615027 170.12846272223229' stroke = 'black' stroke-width='1' />
+<circle cx='304.3351873615027' cy='170.12846272223229' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 318.3869300950387 141.8889593540913, L 294.96735887247866 156.75185586363918' stroke = 'black' stroke-width='1' />
+<circle cx='294.96735887247866' cy='156.75185586363918' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 366.49101398770546 117.1636687215281, L 355.9955775020327 118.13328796202077' stroke = 'black' stroke-width='2' />
+<path d='M 355.9955775020327 118.13328796202077, L 309.230205697673 139.13328796202077' stroke = 'black' stroke-width='1' />
+<circle cx='309.230205697673' cy='139.13328796202077' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 355.9955775020327 118.13328796202077, L 324.8186629657929 124.13328796202077' stroke = 'black' stroke-width='1' />
+<circle cx='324.8186629657929' cy='124.13328796202077' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 420.4925539319385 95.53206957530583, L 363.9195120855991 126.43435406990908' stroke = 'black' stroke-width='3' />
+<path d='M 363.9195120855991 126.43435406990908, L 320.170912336022 146.21144170990573' stroke = 'black' stroke-width='2' />
+<path d='M 320.170912336022 146.21144170990573, L 268.4925339330967 163.00909020026896' stroke = 'black' stroke-width='1' />
+<circle cx='268.4925339330967' cy='163.00909020026896' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 320.170912336022 146.21144170990573, L 269.38354045728505 155.29125170469666' stroke = 'black' stroke-width='1' />
+<circle cx='269.38354045728505' cy='155.29125170469666' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 363.9195120855991 126.43435406990908, L 301.14978201011894 141.88520378865644' stroke = 'black' stroke-width='2' />
+<path d='M 301.14978201011894 141.88520378865644, L 275.5705091961261 143.51215036095965' stroke = 'black' stroke-width='1' />
+<circle cx='275.5705091961261' cy='143.51215036095965' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 301.14978201011894 141.88520378865644, L 285.61950923019475 150.83340993632405' stroke = 'black' stroke-width='1' />
+<circle cx='285.61950923019475' cy='150.83340993632405' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 484.06478061778125 89.42893925908925, L 420.4925539319385 99.28784207759296' stroke = 'black' stroke-width='4' />
+<path d='M 420.4925539319385 99.28784207759296, L 402.82326462988055 99.4786510729695' stroke = 'black' stroke-width='3' />
+<path d='M 402.82326462988055 99.4786510729695, L 338.45584016167845 104.76722890945199' stroke = 'black' stroke-width='2' />
+<path d='M 338.45584016167845 104.76722890945199, L 280.4911721945709 104.24373645891447' stroke = 'black' stroke-width='1' />
+<circle cx='280.4911721945709' cy='104.24373645891447' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 338.45584016167845 104.76722890945199, L 285.4881263296664 102.98735457762444' stroke = 'black' stroke-width='1' />
+<circle cx='285.4881263296664' cy='102.98735457762444' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 402.82326462988055 99.4786510729695, L 358.2612015365099 103.37549789985133' stroke = 'black' stroke-width='2' />
+<path d='M 358.2612015365099 103.37549789985133, L 292.49218024551635 98.98689100619079' stroke = 'black' stroke-width='1' />
+<circle cx='292.49218024551635' cy='98.98689100619079' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 358.2612015365099 103.37549789985133, L 310.1614695475743 92.30857616801173' stroke = 'black' stroke-width='1' />
+<circle cx='310.1614695475743' cy='92.30857616801173' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 420.4925539319385 99.28784207759296, L 375.337703493346 107.30181988340784' stroke = 'black' stroke-width='3' />
+<path d='M 375.337703493346 107.30181988340784, L 328.402115359881 105.88874906484835' stroke = 'black' stroke-width='2' />
+<path d='M 328.402115359881 105.88874906484835, L 269.1112204901728 119.33784748209425' stroke = 'black' stroke-width='1' />
+<circle cx='269.1112204901728' cy='119.33784748209425' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 328.402115359881 105.88874906484835, L 319.7953725562137 125.77002498599445' stroke = 'black' stroke-width='1' />
+<circle cx='319.7953725562137' cy='125.77002498599445' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 375.337703493346 107.30181988340784, L 310.4267837342987 103.63830294640178' stroke = 'black' stroke-width='2' />
+<path d='M 310.4267837342987 103.63830294640178, L 294.7782012256072 78.24077959459899' stroke = 'black' stroke-width='1' />
+<circle cx='294.7782012256072' cy='78.24077959459899' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 310.4267837342987 103.63830294640178, L 271.7655798892962 102.46610956093396' stroke = 'black' stroke-width='1' />
+<circle cx='271.7655798892962' cy='102.46610956093396' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 500 0, L 500.0 67.0' stroke = 'black' stroke-width='9' />
+<path d='M 500.0 67.0, L 497.3406140943161 73.91381838416596' stroke = 'black' stroke-width='8' />
+<path d='M 497.3406140943161 73.91381838416596, L 497.3406140943161 134.91381838416595' stroke = 'black' stroke-width='7' />
+<path d='M 497.3406140943161 134.91381838416595, L 497.3929713136279 140.9129045551043' stroke = 'black' stroke-width='6' />
+<path d='M 497.3929713136279 140.9129045551043, L 491.5432428301809 147.86072761659355' stroke = 'black' stroke-width='5' />
+<path d='M 491.5432428301809 147.86072761659355, L 499.2085316171522 198.23283298694557' stroke = 'black' stroke-width='4' />
+<path d='M 499.2085316171522 198.23283298694557, L 508.06458867816565 223.83783456526297' stroke = 'black' stroke-width='3' />
+<path d='M 508.06458867816565 223.83783456526297, L 532.1538295973855 235.6198357967394' stroke = 'black' stroke-width='2' />
+<path d='M 532.1538295973855 235.6198357967394, L 536.927818117823 242.9333728129311' stroke = 'black' stroke-width='1' />
+<circle cx='536.927818117823' cy='242.9333728129311' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 532.1538295973855 235.6198357967394, L 547.839791878823 283.1578264019855' stroke = 'black' stroke-width='1' />
+<circle cx='547.839791878823' cy='283.1578264019855' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 508.06458867816565 223.83783456526297, L 508.48720693990634 262.80906940783893' stroke = 'black' stroke-width='2' />
+<path d='M 508.48720693990634 262.80906940783893, L 516.1799395001634 271.61239781444317' stroke = 'black' stroke-width='1' />
+<circle cx='516.1799395001634' cy='271.61239781444317' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 508.48720693990634 262.80906940783893, L 520.7539966981542 321.4979254518673' stroke = 'black' stroke-width='1' />
+<circle cx='520.7539966981542' cy='321.4979254518673' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 499.2085316171522 198.23283298694557, L 509.8010704548349 242.54918187249493' stroke = 'black' stroke-width='3' />
+<path d='M 509.8010704548349 242.54918187249493, L 508.8243659914635 285.09751777446417' stroke = 'black' stroke-width='2' />
+<path d='M 508.8243659914635 285.09751777446417, L 514.5547558544722 288.0519410335008' stroke = 'black' stroke-width='1' />
+<circle cx='514.5547558544722' cy='288.0519410335008' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 508.8243659914635 285.09751777446417, L 519.4169048291462 303.8088650816961' stroke = 'black' stroke-width='1' />
+<circle cx='519.4169048291462' cy='303.8088650816961' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 509.8010704548349 242.54918187249493, L 496.77834427654864 278.478887745269' stroke = 'black' stroke-width='2' />
+<path d='M 496.77834427654864 278.478887745269, L 490.78731489138335 317.0577338707585' stroke = 'black' stroke-width='1' />
+<circle cx='490.78731489138335' cy='317.0577338707585' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 496.77834427654864 278.478887745269, L 461.9214460355869 337.18582750144867' stroke = 'black' stroke-width='1' />
+<circle cx='461.9214460355869' cy='337.18582750144867' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 491.5432428301809 147.86072761659355, L 497.01844910658895 194.28207962456503' stroke = 'black' stroke-width='4' />
+<path d='M 497.01844910658895 194.28207962456503, L 483.8617223940658 263.13602205390356' stroke = 'black' stroke-width='3' />
+<path d='M 483.8617223940658 263.13602205390356, L 475.94021507273123 302.83786811955645' stroke = 'black' stroke-width='2' />
+<path d='M 475.94021507273123 302.83786811955645, L 473.6741657612921 327.74273557185006' stroke = 'black' stroke-width='1' />
+<circle cx='473.6741657612921' cy='327.74273557185006' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 475.94021507273123 302.83786811955645, L 472.10536239183426 311.80362040238214' stroke = 'black' stroke-width='1' />
+<circle cx='472.10536239183426' cy='311.80362040238214' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 483.8617223940658 263.13602205390356, L 480.69311946553194 333.6067988204374' stroke = 'black' stroke-width='2' />
+<path d='M 480.69311946553194 333.6067988204374, L 478.8876743960758 342.3917894309576' stroke = 'black' stroke-width='1' />
+<circle cx='478.8876743960758' cy='342.3917894309576' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 480.69311946553194 333.6067988204374, L 471.66589411825123 368.7467612625183' stroke = 'black' stroke-width='1' />
+<circle cx='471.66589411825123' cy='368.7467612625183' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 497.01844910658895 194.28207962456503, L 492.0481301263024 252.61666973831018' stroke = 'black' stroke-width='3' />
+<path d='M 492.0481301263024 252.61666973831018, L 474.947122960019 283.62652622424514' stroke = 'black' stroke-width='2' />
+<path d='M 474.947122960019 283.62652622424514, L 456.9734910495124 321.3672252157952' stroke = 'black' stroke-width='1' />
+<circle cx='456.9734910495124' cy='321.3672252157952' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 474.947122960019 283.62652622424514, L 473.3841984460619 289.14955534495977' stroke = 'black' stroke-width='1' />
+<circle cx='473.3841984460619' cy='289.14955534495977' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 492.0481301263024 252.61666973831018, L 472.89500210006497 306.179149123107' stroke = 'black' stroke-width='2' />
+<path d='M 472.89500210006497 306.179149123107, L 458.39500210006497 357.2746479463889' stroke = 'black' stroke-width='1' />
+<circle cx='458.39500210006497' cy='357.2746479463889' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 472.89500210006497 306.179149123107, L 467.39500210006497 317.43747937230467' stroke = 'black' stroke-width='1' />
+<circle cx='467.39500210006497' cy='317.43747937230467' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 497.3929713136279 140.9129045551043, L 496.2961472229816 141.90545070674563' stroke = 'black' stroke-width='5' />
+<path d='M 496.2961472229816 141.90545070674563, L 494.3427382962386 200.52760239390327' stroke = 'black' stroke-width='4' />
+<path d='M 494.3427382962386 200.52760239390327, L 494.3427382962386 209.52760239390327' stroke = 'black' stroke-width='3' />
+<path d='M 494.3427382962386 209.52760239390327, L 494.3427382962386 260.5276023939033' stroke = 'black' stroke-width='2' />
+<path d='M 494.3427382962386 260.5276023939033, L 487.0495148342275 279.23894970113525' stroke = 'black' stroke-width='1' />
+<circle cx='487.0495148342275' cy='279.23894970113525' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 494.3427382962386 260.5276023939033, L 484.09749581388974 327.49452959873344' stroke = 'black' stroke-width='1' />
+<circle cx='484.09749581388974' cy='327.49452959873344' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 494.3427382962386 209.52760239390327, L 494.3427382962386 245.52760239390327' stroke = 'black' stroke-width='2' />
+<path d='M 494.3427382962386 245.52760239390327, L 491.60762039681373 249.20962180771303' stroke = 'black' stroke-width='1' />
+<circle cx='491.60762039681373' cy='249.20962180771303' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 494.3427382962386 245.52760239390327, L 469.72667720141436 255.65315578188012' stroke = 'black' stroke-width='1' />
+<circle cx='469.72667720141436' cy='255.65315578188012' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 494.3427382962386 200.52760239390327, L 494.3427382962386 225.52760239390327' stroke = 'black' stroke-width='3' />
+<path d='M 494.3427382962386 225.52760239390327, L 485.11974506814016 269.37425530923883' stroke = 'black' stroke-width='2' />
+<path d='M 485.11974506814016 269.37425530923883, L 465.6402022105127 320.36936731041214' stroke = 'black' stroke-width='1' />
+<circle cx='465.6402022105127' cy='320.36936731041214' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 485.11974506814016 269.37425530923883, L 478.37682638665376 300.8985063645096' stroke = 'black' stroke-width='1' />
+<circle cx='478.37682638665376' cy='300.8985063645096' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 494.3427382962386 225.52760239390327, L 479.94587081823124 270.3486253740241' stroke = 'black' stroke-width='2' />
+<path d='M 479.94587081823124 270.3486253740241, L 460.94171001125335 315.29494890428674' stroke = 'black' stroke-width='1' />
+<circle cx='460.94171001125335' cy='315.29494890428674' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 479.94587081823124 270.3486253740241, L 462.403568534867 278.9553681776914' stroke = 'black' stroke-width='1' />
+<circle cx='462.403568534867' cy='278.9553681776914' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 496.2961472229816 141.90545070674563, L 487.8313752070955 172.16204512592375' stroke = 'black' stroke-width='4' />
+<path d='M 487.8313752070955 172.16204512592375, L 469.5993725389736 175.96627119110437' stroke = 'black' stroke-width='3' />
+<path d='M 469.5993725389736 175.96627119110437, L 467.3123439399783 245.41475084320456' stroke = 'black' stroke-width='2' />
+<path d='M 467.3123439399783 245.41475084320456, L 473.36039132996996 256.08800383224053' stroke = 'black' stroke-width='1' />
+<circle cx='473.36039132996996' cy='256.08800383224053' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 467.3123439399783 245.41475084320456, L 478.6826730331627 263.85036964244847' stroke = 'black' stroke-width='1' />
+<circle cx='478.6826730331627' cy='263.85036964244847' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 469.5993725389736 175.96627119110437, L 463.7778451960764 202.3762564109171' stroke = 'black' stroke-width='2' />
+<path d='M 463.7778451960764 202.3762564109171, L 460.57686387399485 268.7242170166023' stroke = 'black' stroke-width='1' />
+<circle cx='460.57686387399485' cy='268.7242170166023' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 463.7778451960764 202.3762564109171, L 458.76761356151405 219.2108135795238' stroke = 'black' stroke-width='1' />
+<circle cx='458.76761356151405' cy='219.2108135795238' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 487.8313752070955 172.16204512592375, L 486.90432422397066 186.42789287035106' stroke = 'black' stroke-width='3' />
+<path d='M 486.90432422397066 186.42789287035106, L 454.1013727744453 227.93691978260352' stroke = 'black' stroke-width='2' />
+<path d='M 454.1013727744453 227.93691978260352, L 407.93136093568404 243.5429611176288' stroke = 'black' stroke-width='1' />
+<circle cx='407.93136093568404' cy='243.5429611176288' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 454.1013727744453 227.93691978260352, L 441.387891253627 245.77239559406098' stroke = 'black' stroke-width='1' />
+<circle cx='441.387891253627' cy='245.77239559406098' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 486.90432422397066 186.42789287035106, L 480.9997929630561 190.20144077146492' stroke = 'black' stroke-width='2' />
+<path d='M 480.9997929630561 190.20144077146492, L 459.8679247168185 197.4180900903605' stroke = 'black' stroke-width='1' />
+<circle cx='459.8679247168185' cy='197.4180900903605' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 480.9997929630561 190.20144077146492, L 455.33966723548184 201.35444426430354' stroke = 'black' stroke-width='1' />
+<circle cx='455.33966723548184' cy='201.35444426430354' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 497.3406140943161 134.91381838416595, L 497.58494778443804 171.90818310495243' stroke = 'black' stroke-width='6' />
+<path d='M 497.58494778443804 171.90818310495243, L 485.3105556743439 225.83582588290244' stroke = 'black' stroke-width='5' />
+<path d='M 485.3105556743439 225.83582588290244, L 482.8019800275268 226.76940630939964' stroke = 'black' stroke-width='4' />
+<path d='M 482.8019800275268 226.76940630939964, L 482.4878367116557 256.7648371640914' stroke = 'black' stroke-width='3' />
+<path d='M 482.4878367116557 256.7648371640914, L 481.58100255298206 256.7648371640914' stroke = 'black' stroke-width='2' />
+<path d='M 481.58100255298206 256.7648371640914, L 484.65028739772356 261.7526574153905' stroke = 'black' stroke-width='1' />
+<circle cx='484.65028739772356' cy='261.7526574153905' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 481.58100255298206 256.7648371640914, L 484.0922356077706 272.7258619682486' stroke = 'black' stroke-width='1' />
+<circle cx='484.0922356077706' cy='272.7258619682486' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 482.4878367116557 256.7648371640914, L 477.74439649705516 263.74778551591015' stroke = 'black' stroke-width='2' />
+<path d='M 477.74439649705516 263.74778551591015, L 455.2097614833324 315.8416934945868' stroke = 'black' stroke-width='1' />
+<circle cx='455.2097614833324' cy='315.8416934945868' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 477.74439649705516 263.74778551591015, L 465.538135864622 299.06568923026725' stroke = 'black' stroke-width='1' />
+<circle cx='465.538135864622' cy='299.06568923026725' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 482.8019800275268 226.76940630939964, L 481.85955007991345 239.76742634643273' stroke = 'black' stroke-width='3' />
+<path d='M 481.85955007991345 239.76742634643273, L 477.9597310909487 294.35746468670544' stroke = 'black' stroke-width='2' />
+<path d='M 477.9597310909487 294.35746468670544, L 494.5637069682637 339.74235631547265' stroke = 'black' stroke-width='1' />
+<circle cx='494.5637069682637' cy='339.74235631547265' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 477.9597310909487 294.35746468670544, L 480.8898444810631 319.886466227887' stroke = 'black' stroke-width='1' />
+<circle cx='480.8898444810631' cy='319.886466227887' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 481.85955007991345 239.76742634643273, L 480.27524861564655 289.39473392849885' stroke = 'black' stroke-width='2' />
+<path d='M 480.27524861564655 289.39473392849885, L 454.42739366994863 294.03065320133277' stroke = 'black' stroke-width='1' />
+<circle cx='454.42739366994863' cy='294.03065320133277' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 480.27524861564655 289.39473392849885, L 476.52918268148744 317.21024956550247' stroke = 'black' stroke-width='1' />
+<circle cx='476.52918268148744' cy='317.21024956550247' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 485.3105556743439 225.83582588290244, L 483.1603479770721 293.9871970171982' stroke = 'black' stroke-width='4' />
+<path d='M 483.1603479770721 293.9871970171982, L 449.12208782458123 344.3409830409038' stroke = 'black' stroke-width='3' />
+<path d='M 449.12208782458123 344.3409830409038, L 436.986832908957 365.50125212343283' stroke = 'black' stroke-width='2' />
+<path d='M 436.986832908957 365.50125212343283, L 413.986832908957 384.55381100669047' stroke = 'black' stroke-width='1' />
+<circle cx='413.986832908957' cy='384.55381100669047' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 436.986832908957 365.50125212343283, L 415.986832908957 369.83137914235505' stroke = 'black' stroke-width='1' />
+<circle cx='415.986832908957' cy='369.83137914235505' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 449.12208782458123 344.3409830409038, L 415.1433740608334 377.8447424215748' stroke = 'black' stroke-width='2' />
+<path d='M 415.1433740608334 377.8447424215748, L 395.9589194503388 388.41989514154557' stroke = 'black' stroke-width='1' />
+<circle cx='395.9589194503388' cy='388.41989514154557' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 415.1433740608334 377.8447424215748, L 370.37964663634597 392.48726157230357' stroke = 'black' stroke-width='1' />
+<circle cx='370.37964663634597' cy='392.48726157230357' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 483.1603479770721 293.9871970171982, L 443.56482086090926 326.35748803243746' stroke = 'black' stroke-width='3' />
+<path d='M 443.56482086090926 326.35748803243746, L 421.7100421315669 374.6182879489331' stroke = 'black' stroke-width='2' />
+<path d='M 421.7100421315669 374.6182879489331, L 378.916255540178 387.0526233322446' stroke = 'black' stroke-width='1' />
+<circle cx='378.916255540178' cy='387.0526233322446' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 421.7100421315669 374.6182879489331, L 409.75295470162 416.5841698676095' stroke = 'black' stroke-width='1' />
+<circle cx='409.75295470162' cy='416.5841698676095' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 443.56482086090926 326.35748803243746, L 439.70809520279005 333.25188802050826' stroke = 'black' stroke-width='2' />
+<path d='M 439.70809520279005 333.25188802050826, L 393.02907387792993 337.5523034150519' stroke = 'black' stroke-width='1' />
+<circle cx='393.02907387792993' cy='337.5523034150519' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 439.70809520279005 333.25188802050826, L 404.2320389958964 341.4943508600502' stroke = 'black' stroke-width='1' />
+<circle cx='404.2320389958964' cy='341.4943508600502' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 497.58494778443804 171.90818310495243, L 489.2558959954456 226.7346199292016' stroke = 'black' stroke-width='5' />
+<path d='M 489.2558959954456 226.7346199292016, L 476.75249988378886 271.8393577483712' stroke = 'black' stroke-width='4' />
+<path d='M 476.75249988378886 271.8393577483712, L 477.06664319965995 328.8306763722855' stroke = 'black' stroke-width='3' />
+<path d='M 477.06664319965995 328.8306763722855, L 478.3920162007983 335.8136247241043' stroke = 'black' stroke-width='2' />
+<path d='M 478.3920162007983 335.8136247241043, L 480.4637950386858 353.6794554536481' stroke = 'black' stroke-width='1' />
+<circle cx='480.4637950386858' cy='353.6794554536481' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 478.3920162007983 335.8136247241043, L 485.8260461485123 387.426024609453' stroke = 'black' stroke-width='1' />
+<circle cx='485.8260461485123' cy='387.426024609453' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 477.06664319965995 328.8306763722855, L 477.34566909463643 350.77708547800165' stroke = 'black' stroke-width='2' />
+<path d='M 477.34566909463643 350.77708547800165, L 482.33554967426267 360.55856148533974' stroke = 'black' stroke-width='1' />
+<circle cx='482.33554967426267' cy='360.55856148533974' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 477.34566909463643 350.77708547800165, L 491.6915757610618 367.40559469047633' stroke = 'black' stroke-width='1' />
+<circle cx='491.6915757610618' cy='367.40559469047633' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 476.75249988378886 271.8393577483712, L 477.71238223783945 305.8341793836885' stroke = 'black' stroke-width='3' />
+<path d='M 477.71238223783945 305.8341793836885, L 475.04324846944934 312.8245861269705' stroke = 'black' stroke-width='2' />
+<path d='M 475.04324846944934 312.8245861269705, L 489.18124344505696 361.7319661636608' stroke = 'black' stroke-width='1' />
+<circle cx='489.18124344505696' cy='361.7319661636608' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 475.04324846944934 312.8245861269705, L 485.8546563919728 350.9723425555889' stroke = 'black' stroke-width='1' />
+<circle cx='485.8546563919728' cy='350.9723425555889' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 477.71238223783945 305.8341793836885, L 476.5086552442517 343.7821017043623' stroke = 'black' stroke-width='2' />
+<path d='M 476.5086552442517 343.7821017043623, L 475.36380127199243 368.32278129055385' stroke = 'black' stroke-width='1' />
+<circle cx='475.36380127199243' cy='368.32278129055385' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 476.5086552442517 343.7821017043623, L 473.26490232285045 369.30440847400155' stroke = 'black' stroke-width='1' />
+<circle cx='473.26490232285045' cy='369.30440847400155' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 489.2558959954456 226.7346199292016, L 487.6929714814885 256.1907752396797' stroke = 'black' stroke-width='4' />
+<path d='M 487.6929714814885 256.1907752396797, L 465.1929714814885 296.8939692175483' stroke = 'black' stroke-width='3' />
+<path d='M 465.1929714814885 296.8939692175483, L 458.49015759420536 352.47655370946234' stroke = 'black' stroke-width='2' />
+<path d='M 458.49015759420536 352.47655370946234, L 458.5948560843129 401.446704233398' stroke = 'black' stroke-width='1' />
+<circle cx='458.5948560843129' cy='401.446704233398' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 458.49015759420536 352.47655370946234, L 458.69955457442035 416.4375666386845' stroke = 'black' stroke-width='1' />
+<circle cx='458.69955457442035' cy='416.4375666386845' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 465.1929714814885 296.8939692175483, L 457.5152028469642 301.8566999757549' stroke = 'black' stroke-width='2' />
+<path d='M 457.5152028469642 301.8566999757549, L 444.86045754391444 341.32379004876304' stroke = 'black' stroke-width='1' />
+<circle cx='444.86045754391444' cy='341.32379004876304' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 457.5152028469642 301.8566999757549, L 455.80510213033585 354.4794867397658' stroke = 'black' stroke-width='1' />
+<circle cx='455.80510213033585' cy='354.4794867397658' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 487.6929714814885 256.1907752396797, L 474.1929714814885 294.295893006195' stroke = 'black' stroke-width='3' />
+<path d='M 474.1929714814885 294.295893006195, L 435.1827590582929 326.62096812442053' stroke = 'black' stroke-width='2' />
+<path d='M 435.1827590582929 326.62096812442053, L 426.0473044818669 329.87486126902695' stroke = 'black' stroke-width='1' />
+<circle cx='426.0473044818669' cy='329.87486126902695' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 435.1827590582929 326.62096812442053, L 391.33257709144806 354.68579649665077' stroke = 'black' stroke-width='1' />
+<circle cx='391.33257709144806' cy='354.68579649665077' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 474.1929714814885 294.295893006195, L 467.4085867122371 325.56112959595407' stroke = 'black' stroke-width='2' />
+<path d='M 467.4085867122371 325.56112959595407, L 422.99950514744125 331.05516699858316' stroke = 'black' stroke-width='1' />
+<circle cx='422.99950514744125' cy='331.05516699858316' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 467.4085867122371 325.56112959595407, L 449.2824309715041 352.6086983473588' stroke = 'black' stroke-width='1' />
+<circle cx='449.2824309715041' cy='352.6086983473588' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 497.3406140943161 73.91381838416596, L 497.3406140943161 78.91381838416596' stroke = 'black' stroke-width='7' />
+<path d='M 497.3406140943161 78.91381838416596, L 501.72077911544255 82.86457174654652' stroke = 'black' stroke-width='6' />
+<path d='M 501.72077911544255 82.86457174654652, L 513.5469214504375 113.67272582095417' stroke = 'black' stroke-width='5' />
+<path d='M 513.5469214504375 113.67272582095417, L 528.0622351864175 114.64302154723016' stroke = 'black' stroke-width='4' />
+<path d='M 528.0622351864175 114.64302154723016, L 533.9016699505106 118.62780033959714' stroke = 'black' stroke-width='3' />
+<path d='M 533.9016699505106 118.62780033959714, L 552.3132581156518 136.6036812655805' stroke = 'black' stroke-width='2' />
+<path d='M 552.3132581156518 136.6036812655805, L 567.919299450677 152.66281581819308' stroke = 'black' stroke-width='1' />
+<circle cx='567.919299450677' cy='152.66281581819308' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 552.3132581156518 136.6036812655805, L 579.066471832838 176.08238704075313' stroke = 'black' stroke-width='1' />
+<circle cx='579.066471832838' cy='176.08238704075313' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 533.9016699505106 118.62780033959714, L 537.8470102716124 132.10971103408465' stroke = 'black' stroke-width='2' />
+<path d='M 537.8470102716124 132.10971103408465, L 540.1466364635007 144.04397377850393' stroke = 'black' stroke-width='1' />
+<circle cx='540.1466364635007' cy='144.04397377850393' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 537.8470102716124 132.10971103408465, L 538.265124124683 145.0384956738722' stroke = 'black' stroke-width='1' />
+<circle cx='538.265124124683' cy='145.0384956738722' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 528.0622351864175 114.64302154723016, L 533.2044240085294 129.58594201860635' stroke = 'black' stroke-width='3' />
+<path d='M 533.2044240085294 129.58594201860635, L 538.1943045881555 174.5807316523614' stroke = 'black' stroke-width='2' />
+<path d='M 538.1943045881555 174.5807316523614, L 564.0568556890244 178.62581662423614' stroke = 'black' stroke-width='1' />
+<circle cx='564.0568556890244' cy='178.62581662423614' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 538.1943045881555 174.5807316523614, L 554.0645064000523 179.4348336186111' stroke = 'black' stroke-width='1' />
+<circle cx='554.0645064000523' cy='179.4348336186111' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 533.2044240085294 129.58594201860635, L 533.8281590809827 151.10518923475007' stroke = 'black' stroke-width='2' />
+<path d='M 533.8281590809827 151.10518923475007, L 548.3819774382258 158.93037004062052' stroke = 'black' stroke-width='1' />
+<circle cx='548.3819774382258' cy='158.93037004062052' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 533.8281590809827 151.10518923475007, L 538.4022162789734 193.16553606630373' stroke = 'black' stroke-width='1' />
+<circle cx='538.4022162789734' cy='193.16553606630373' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 513.5469214504375 113.67272582095417, L 517.4176717800322 174.80135657634196' stroke = 'black' stroke-width='4' />
+<path d='M 517.4176717800322 174.80135657634196, L 532.9392945297589 176.75009670591243' stroke = 'black' stroke-width='3' />
+<path d='M 532.9392945297589 176.75009670591243, L 534.1867646746654 195.33490111985475' stroke = 'black' stroke-width='2' />
+<path d='M 534.1867646746654 195.33490111985475, L 554.835516383303 225.64352675854744' stroke = 'black' stroke-width='1' />
+<circle cx='554.835516383303' cy='225.64352675854744' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 534.1867646746654 195.33490111985475, L 569.7485037284303 231.37759106857038' stroke = 'black' stroke-width='1' />
+<circle cx='569.7485037284303' cy='231.37759106857038' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 532.9392945297589 176.75009670591243, L 537.097528346114 237.39524795140838' stroke = 'black' stroke-width='2' />
+<path d='M 537.097528346114 237.39524795140838, L 539.887787295879 252.35870870530573' stroke = 'black' stroke-width='1' />
+<circle cx='539.887787295879' cy='252.35870870530573' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 537.097528346114 237.39524795140838, L 540.5155955595761 305.2296033690764' stroke = 'black' stroke-width='1' />
+<circle cx='540.5155955595761' cy='305.2296033690764' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 517.4176717800322 174.80135657634196, L 518.7673781060953 186.4937973537648' stroke = 'black' stroke-width='3' />
+<path d='M 518.7673781060953 186.4937973537648, L 525.8358000235938 199.39689732510197' stroke = 'black' stroke-width='2' />
+<path d='M 525.8358000235938 199.39689732510197, L 527.0832701685003 205.2657829295048' stroke = 'black' stroke-width='1' />
+<circle cx='527.0832701685003' cy='205.2657829295048' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 525.8358000235938 199.39689732510197, L 527.0832701685003 218.9598493397781' stroke = 'black' stroke-width='1' />
+<circle cx='527.0832701685003' cy='218.9598493397781' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 518.7673781060953 186.4937973537648, L 520.7172876005776 241.0838356940375' stroke = 'black' stroke-width='2' />
+<path d='M 520.7172876005776 241.0838356940375, L 499.0860979943313 284.83243544361454' stroke = 'black' stroke-width='1' />
+<circle cx='499.0860979943313' cy='284.83243544361454' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 520.7172876005776 241.0838356940375, L 509.5926758030795 296.2451136391564' stroke = 'black' stroke-width='1' />
+<circle cx='509.5926758030795' cy='296.2451136391564' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 501.72077911544255 82.86457174654652, L 518.2057047945264 146.34804074835623' stroke = 'black' stroke-width='5' />
+<path d='M 518.2057047945264 146.34804074835623, L 522.9992706456476 153.32140363499843' stroke = 'black' stroke-width='4' />
+<path d='M 522.9992706456476 153.32140363499843, L 526.5581156701678 191.26932595567223' stroke = 'black' stroke-width='3' />
+<path d='M 526.5581156701678 191.26932595567223, L 527.2092519790821 235.7086990088401' stroke = 'black' stroke-width='2' />
+<path d='M 527.2092519790821 235.7086990088401, L 553.6407084031753 242.70301266195284' stroke = 'black' stroke-width='1' />
+<circle cx='553.6407084031753' cy='242.70301266195284' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 527.2092519790821 235.7086990088401, L 543.5715821463779 290.1089163108281' stroke = 'black' stroke-width='1' />
+<circle cx='543.5715821463779' cy='290.1089163108281' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 526.5581156701678 191.26932595567223, L 542.8365233930257 191.26932595567223' stroke = 'black' stroke-width='2' />
+<path d='M 542.8365233930257 191.26932595567223, L 546.2567248262824 236.37457175339583' stroke = 'black' stroke-width='1' />
+<circle cx='546.2567248262824' cy='236.37457175339583' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 542.8365233930257 191.26932595567223, L 558.5694499860065 215.70133409610585' stroke = 'black' stroke-width='1' />
+<circle cx='558.5694499860065' cy='215.70133409610585' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 522.9992706456476 153.32140363499843, L 524.3600055079642 221.22821199830946' stroke = 'black' stroke-width='3' />
+<path d='M 524.3600055079642 221.22821199830946, L 518.267750365694 244.5677226607395' stroke = 'black' stroke-width='2' />
+<path d='M 518.267750365694 244.5677226607395, L 514.163508645786 297.19050942475036' stroke = 'black' stroke-width='1' />
+<circle cx='514.163508645786' cy='297.19050942475036' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 518.267750365694 244.5677226607395, L 511.7693676425063 245.5074152815254' stroke = 'black' stroke-width='1' />
+<circle cx='511.7693676425063' cy='245.5074152815254' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 524.3600055079642 221.22821199830946, L 505.36650418206324 249.23562479322553' stroke = 'black' stroke-width='2' />
+<path d='M 505.36650418206324 249.23562479322553, L 490.60926855048353 280.2850880340574' stroke = 'black' stroke-width='1' />
+<circle cx='490.60926855048353' cy='280.2850880340574' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 505.36650418206324 249.23562479322553, L 498.8346130008722 282.2256794866094' stroke = 'black' stroke-width='1' />
+<circle cx='498.8346130008722' cy='282.2256794866094' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 518.2057047945264 146.34804074835623, L 523.1735821311429 160.29476652164067' stroke = 'black' stroke-width='4' />
+<path d='M 523.1735821311429 160.29476652164067, L 529.7054733123339 178.7303853208846' stroke = 'black' stroke-width='3' />
+<path d='M 529.7054733123339 178.7303853208846, L 551.8441078154206 185.34901535007984' stroke = 'black' stroke-width='2' />
+<path d='M 551.8441078154206 185.34901535007984, L 562.2622887580495 195.74971968167233' stroke = 'black' stroke-width='1' />
+<circle cx='562.2622887580495' cy='195.74971968167233' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 551.8441078154206 185.34901535007984, L 562.5878569125067 244.9166856128368' stroke = 'black' stroke-width='1' />
+<circle cx='562.5878569125067' cy='244.9166856128368' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 529.7054733123339 178.7303853208846, L 531.3333140846197 245.86220418843612' stroke = 'black' stroke-width='2' />
+<path d='M 531.3333140846197 245.86220418843612, L 532.859786047632 283.16403715944733' stroke = 'black' stroke-width='1' />
+<circle cx='532.859786047632' cy='283.16403715944733' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 531.3333140846197 245.86220418843612, L 538.0116289227988 258.62335757325576' stroke = 'black' stroke-width='1' />
+<circle cx='538.0116289227988' cy='258.62335757325576' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 523.1735821311429 160.29476652164067, L 534.060067433128 165.14624515302066' stroke = 'black' stroke-width='3' />
+<path d='M 534.060067433128 165.14624515302066, L 536.4065844087314 183.91232362432828' stroke = 'black' stroke-width='2' />
+<path d='M 536.4065844087314 183.91232362432828, L 552.1395941849773 194.0152211232689' stroke = 'black' stroke-width='1' />
+<circle cx='552.1395941849773' cy='194.0152211232689' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 536.4065844087314 183.91232362432828, L 540.1825067550304 211.88957823677924' stroke = 'black' stroke-width='1' />
+<circle cx='540.1825067550304' cy='211.88957823677924' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 534.060067433128 165.14624515302066, L 540.4738804997775 200.70302541444562' stroke = 'black' stroke-width='2' />
+<path d='M 540.4738804997775 200.70302541444562, L 536.6063273588743 257.3907734504372' stroke = 'black' stroke-width='1' />
+<circle cx='536.6063273588743' cy='257.3907734504372' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 540.4738804997775 200.70302541444562, L 534.6202865567889 242.47294501991308' stroke = 'black' stroke-width='1' />
+<circle cx='534.6202865567889' cy='242.47294501991308' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 497.3406140943161 78.91381838416596, L 505.63164074144834 110.51984528321037' stroke = 'black' stroke-width='6' />
+<path d='M 505.63164074144834 110.51984528321037, L 516.6571349741283 157.621668384188' stroke = 'black' stroke-width='5' />
+<path d='M 516.6571349741283 157.621668384188, L 531.2449607537673 205.81743500687764' stroke = 'black' stroke-width='4' />
+<path d='M 531.2449607537673 205.81743500687764, L 531.2449607537673 207.18143172700263' stroke = 'black' stroke-width='3' />
+<path d='M 531.2449607537673 207.18143172700263, L 573.1428735395324 210.5556975421606' stroke = 'black' stroke-width='2' />
+<path d='M 573.1428735395324 210.5556975421606, L 619.4288379311062 203.26247408014953' stroke = 'black' stroke-width='1' />
+<circle cx='619.4288379311062' cy='203.26247408014953' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 573.1428735395324 210.5556975421606, L 631.2465309672526 208.8192157654913' stroke = 'black' stroke-width='1' />
+<circle cx='631.2465309672526' cy='208.8192157654913' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 531.2449607537673 207.18143172700263, L 596.527755094378 218.8788865528836' stroke = 'black' stroke-width='2' />
+<path d='M 596.527755094378 218.8788865528836, L 625.4880116022606 222.0713798837032' stroke = 'black' stroke-width='1' />
+<circle cx='625.4880116022606' cy='222.0713798837032' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 596.527755094378 218.8788865528836, L 597.5263846291326 220.23962141520016' stroke = 'black' stroke-width='1' />
+<circle cx='597.5263846291326' cy='220.23962141520016' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 531.2449607537673 205.81743500687764, L 555.3796329071998 239.91735301000256' stroke = 'black' stroke-width='3' />
+<path d='M 555.3796329071998 239.91735301000256, L 593.9921598339292 244.22698333728218' stroke = 'black' stroke-width='2' />
+<path d='M 593.9921598339292 244.22698333728218, L 621.327072246798 247.00561681911816' stroke = 'black' stroke-width='1' />
+<circle cx='621.327072246798' cy='247.00561681911816' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 593.9921598339292 244.22698333728218, L 622.0464120471366 250.47890867141317' stroke = 'black' stroke-width='1' />
+<circle cx='622.0464120471366' cy='250.47890867141317' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 555.3796329071998 239.91735301000256, L 586.9000630514687 248.53661366456177' stroke = 'black' stroke-width='2' />
+<path d='M 586.9000630514687 248.53661366456177, L 619.9000630514687 264.9910963364661' stroke = 'black' stroke-width='1' />
+<circle cx='619.9000630514687' cy='264.9910963364661' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 586.9000630514687 248.53661366456177, L 599.4000630514687 303.09621410298143' stroke = 'black' stroke-width='1' />
+<circle cx='599.4000630514687' cy='303.09621410298143' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 516.6571349741283 157.621668384188, L 525.6876937900953 166.97308578859048' stroke = 'black' stroke-width='4' />
+<path d='M 525.6876937900953 166.97308578859048, L 548.3500992424732 223.12388184918933' stroke = 'black' stroke-width='3' />
+<path d='M 548.3500992424732 223.12388184918933, L 559.1479451865487 273.45189464214815' stroke = 'black' stroke-width='2' />
+<path d='M 559.1479451865487 273.45189464214815, L 562.541612528273 304.9382040991664' stroke = 'black' stroke-width='1' />
+<circle cx='562.541612528273' cy='304.9382040991664' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 559.1479451865487 273.45189464214815, L 587.2669031608363 307.5620632205846' stroke = 'black' stroke-width='1' />
+<circle cx='587.2669031608363' cy='307.5620632205846' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 548.3500992424732 223.12388184918933, L 566.6594901911229 265.50536630641784' stroke = 'black' stroke-width='2' />
+<path d='M 566.6594901911229 265.50536630641784, L 590.6594901911229 311.4047127069931' stroke = 'black' stroke-width='1' />
+<circle cx='590.6594901911229' cy='311.4047127069931' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 566.6594901911229 265.50536630641784, L 600.6594901911229 295.8162554388732' stroke = 'black' stroke-width='1' />
+<circle cx='600.6594901911229' cy='295.8162554388732' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 525.6876937900953 166.97308578859048, L 534.2837786168593 222.2033769957369' stroke = 'black' stroke-width='3' />
+<path d='M 534.2837786168593 222.2033769957369, L 537.9444084045415 262.39937713201135' stroke = 'black' stroke-width='2' />
+<path d='M 537.9444084045415 262.39937713201135, L 542.4185114783753 289.8057408612894' stroke = 'black' stroke-width='1' />
+<circle cx='542.4185114783753' cy='289.8057408612894' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 537.9444084045415 262.39937713201135, L 552.1801909121945 308.990195471784' stroke = 'black' stroke-width='1' />
+<circle cx='552.1801909121945' cy='308.990195471784' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 534.2837786168593 222.2033769957369, L 558.6879772014073 243.2149225215167' stroke = 'black' stroke-width='2' />
+<path d='M 558.6879772014073 243.2149225215167, L 587.3036174700004 260.17588444464525' stroke = 'black' stroke-width='1' />
+<circle cx='587.3036174700004' cy='260.17588444464525' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 558.6879772014073 243.2149225215167, L 594.7224871692653 268.6563654062095' stroke = 'black' stroke-width='1' />
+<circle cx='594.7224871692653' cy='268.6563654062095' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 505.63164074144834 110.51984528321037, L 507.56110223216734 180.69194908670767' stroke = 'black' stroke-width='5' />
+<path d='M 507.56110223216734 180.69194908670767, L 507.56110223216734 202.69194908670767' stroke = 'black' stroke-width='4' />
+<path d='M 507.56110223216734 202.69194908670767, L 506.0962162835407 273.5189966551552' stroke = 'black' stroke-width='3' />
+<path d='M 506.0962162835407 273.5189966551552, L 505.9219047980454 283.48094363607265' stroke = 'black' stroke-width='2' />
+<path d='M 505.9219047980454 283.48094363607265, L 501.7365163733979 306.42491679204863' stroke = 'black' stroke-width='1' />
+<circle cx='501.7365163733979' cy='306.42491679204863' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 505.9219047980454 283.48094363607265, L 502.9921329007921 347.3250428527014' stroke = 'black' stroke-width='1' />
+<circle cx='502.9921329007921' cy='347.3250428527014' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 506.0962162835407 273.5189966551552, L 500.4310930049429 283.48094363607265' stroke = 'black' stroke-width='2' />
+<path d='M 500.4310930049429 283.48094363607265, L 492.2615074797175 328.76915430512554' stroke = 'black' stroke-width='1' />
+<circle cx='492.2615074797175' cy='328.76915430512554' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 500.4310930049429 283.48094363607265, L 492.2615074797175 332.12383657690725' stroke = 'black' stroke-width='1' />
+<circle cx='492.2615074797175' cy='332.12383657690725' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 507.56110223216734 202.69194908670767, L 507.4913457584232 271.52386855463556' stroke = 'black' stroke-width='3' />
+<path d='M 507.4913457584232 271.52386855463556, L 507.5262505712978 298.51975632385813' stroke = 'black' stroke-width='2' />
+<path d='M 507.5262505712978 298.51975632385813, L 511.3424304788287 344.65623394589835' stroke = 'black' stroke-width='1' />
+<circle cx='511.3424304788287' cy='344.65623394589835' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 507.5262505712978 298.51975632385813, L 510.38838550194595 323.0604359100497' stroke = 'black' stroke-width='1' />
+<circle cx='510.38838550194595' cy='323.0604359100497' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 507.4913457584232 271.52386855463556, L 507.8054890742943 272.52371624979196' stroke = 'black' stroke-width='2' />
+<path d='M 507.8054890742943 272.52371624979196, L 516.773511856992 285.2848696346116' stroke = 'black' stroke-width='1' />
+<circle cx='516.773511856992' cy='285.2848696346116' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 507.8054890742943 272.52371624979196, L 508.759534051177 336.32948317389014' stroke = 'black' stroke-width='1' />
+<circle cx='508.759534051177' cy='336.32948317389014' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 507.56110223216734 180.69194908670767, L 507.56110223216734 237.69194908670767' stroke = 'black' stroke-width='4' />
+<path d='M 507.56110223216734 237.69194908670767, L 506.043359501122 297.6097211719821' stroke = 'black' stroke-width='3' />
+<path d='M 506.043359501122 297.6097211719821, L 509.8799655570489 337.51228318237503' stroke = 'black' stroke-width='2' />
+<path d='M 509.8799655570489 337.51228318237503, L 508.86772598368646 393.50375411113293' stroke = 'black' stroke-width='1' />
+<circle cx='508.86772598368646' cy='393.50375411113293' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 509.8799655570489 337.51228318237503, L 509.146964486683 341.5116739630006' stroke = 'black' stroke-width='1' />
+<circle cx='509.146964486683' cy='341.5116739630006' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 506.043359501122 297.6097211719821, L 510.64728676823427 312.57318192587945' stroke = 'black' stroke-width='2' />
+<path d='M 510.64728676823427 312.57318192587945, L 496.9716972711097 326.38075472766604' stroke = 'black' stroke-width='1' />
+<circle cx='496.9716972711097' cy='326.38075472766604' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 510.64728676823427 312.57318192587945, L 496.19023501413113 352.15489062433437' stroke = 'black' stroke-width='1' />
+<circle cx='496.19023501413113' cy='352.15489062433437' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 507.56110223216734 237.69194908670767, L 505.51999993869254 266.6522055945903' stroke = 'black' stroke-width='3' />
+<path d='M 505.51999993869254 266.6522055945903, L 479.3773262579712 292.6509932008985' stroke = 'black' stroke-width='2' />
+<path d='M 479.3773262579712 292.6509932008985, L 465.4303608886516 318.9589849500998' stroke = 'black' stroke-width='1' />
+<circle cx='465.4303608886516' cy='318.9589849500998' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 479.3773262579712 292.6509932008985, L 475.5531583341255 322.85646520924075' stroke = 'black' stroke-width='1' />
+<circle cx='475.5531583341255' cy='322.85646520924075' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 505.51999993869254 266.6522055945903, L 477.1987701179111 308.5857339918615' stroke = 'black' stroke-width='2' />
+<path d='M 477.1987701179111 308.5857339918615, L 473.6918009435985 320.27005659375067' stroke = 'black' stroke-width='1' />
+<circle cx='473.6918009435985' cy='320.27005659375067' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 477.1987701179111 308.5857339918615, L 473.6918009435985 319.3712625474515' stroke = 'black' stroke-width='1' />
+<circle cx='473.6918009435985' cy='319.3712625474515' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 500.0 67.0, L 490.14462870246547 112.43366366737634' stroke = 'black' stroke-width='8' />
+<path d='M 490.14462870246547 112.43366366737634, L 471.62690151195454 156.04453320053838' stroke = 'black' stroke-width='7' />
+<path d='M 471.62690151195454 156.04453320053838, L 449.66312278586133 158.7851695734662' stroke = 'black' stroke-width='6' />
+<path d='M 449.66312278586133 158.7851695734662, L 434.27765766534714 158.7851695734662' stroke = 'black' stroke-width='5' />
+<path d='M 434.27765766534714 158.7851695734662, L 434.80122985846566 193.7798389039399' stroke = 'black' stroke-width='4' />
+<path d='M 434.80122985846566 193.7798389039399, L 431.104136750027 247.6482976179704' stroke = 'black' stroke-width='3' />
+<path d='M 431.104136750027 247.6482976179704, L 448.35406732866846 289.725706880344' stroke = 'black' stroke-width='2' />
+<path d='M 448.35406732866846 289.725706880344, L 483.02402734385475 317.0839467746604' stroke = 'black' stroke-width='1' />
+<circle cx='483.02402734385475' cy='317.0839467746604' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 448.35406732866846 289.725706880344, L 479.10967701955957 342.7841115238666' stroke = 'black' stroke-width='1' />
+<circle cx='479.10967701955957' cy='342.7841115238666' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 431.104136750027 247.6482976179704, L 450.6930409664504 279.20635456475054' stroke = 'black' stroke-width='2' />
+<path d='M 450.6930409664504 279.20635456475054, L 444.70859762516756 336.64190255176163' stroke = 'black' stroke-width='1' />
+<circle cx='444.70859762516756' cy='336.64190255176163' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 450.6930409664504 279.20635456475054, L 450.2755216635702 288.11876718342467' stroke = 'black' stroke-width='1' />
+<circle cx='450.2755216635702' cy='288.11876718342467' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 434.80122985846566 193.7798389039399, L 431.8017014874683 256.6263740703088' stroke = 'black' stroke-width='3' />
+<path d='M 431.8017014874683 256.6263740703088, L 429.1714746067338 304.2624585241647' stroke = 'black' stroke-width='2' />
+<path d='M 429.1714746067338 304.2624585241647, L 408.8094705563876 340.9964862240193' stroke = 'black' stroke-width='1' />
+<circle cx='408.8094705563876' cy='340.9964862240193' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 429.1714746067338 304.2624585241647, L 414.14237637909736 305.1370782313041' stroke = 'black' stroke-width='1' />
+<circle cx='414.14237637909736' cy='305.1370782313041' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 431.8017014874683 256.6263740703088, L 413.8284844691161 269.2094907184972' stroke = 'black' stroke-width='2' />
+<path d='M 413.8284844691161 269.2094907184972, L 413.4538778757002 289.60753551896653' stroke = 'black' stroke-width='1' />
+<circle cx='413.4538778757002' cy='289.60753551896653' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 413.8284844691161 269.2094907184972, L 398.84422073247964 277.5541454095983' stroke = 'black' stroke-width='1' />
+<circle cx='398.84422073247964' cy='277.5541454095983' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 434.27765766534714 158.7851695734662, L 434.3474672910963 219.77587897800606' stroke = 'black' stroke-width='4' />
+<path d='M 434.3474672910963 219.77587897800606, L 430.3257789587264 237.64170970754986' stroke = 'black' stroke-width='3' />
+<path d='M 430.3257789587264 237.64170970754986, L 430.88247136256666 248.53465846370713' stroke = 'black' stroke-width='2' />
+<path d='M 430.88247136256666 248.53465846370713, L 450.6002769995741 309.4580423709731' stroke = 'black' stroke-width='1' />
+<circle cx='450.6002769995741' cy='309.4580423709731' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 430.88247136256666 248.53465846370713, L 457.64235044136245 281.20371939948745' stroke = 'black' stroke-width='1' />
+<circle cx='457.64235044136245' cy='281.20371939948745' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 430.3257789587264 237.64170970754986, L 432.9700678769676 238.63197777629142' stroke = 'black' stroke-width='2' />
+<path d='M 432.9700678769676 238.63197777629142, L 409.0286578441708 298.77230550658953' stroke = 'black' stroke-width='1' />
+<circle cx='409.0286578441708' cy='298.77230550658953' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 432.9700678769676 238.63197777629142, L 426.12966501045423 248.9685966049364' stroke = 'black' stroke-width='1' />
+<circle cx='426.12966501045423' cy='248.9685966049364' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 434.3474672910963 219.77587897800606, L 425.816613252736 284.291378834692' stroke = 'black' stroke-width='3' />
+<path d='M 425.816613252736 284.291378834692, L 410.6132846071537 340.7133594365111' stroke = 'black' stroke-width='2' />
+<path d='M 410.6132846071537 340.7133594365111, L 410.01990278828606 367.7092472057337' stroke = 'black' stroke-width='1' />
+<circle cx='410.01990278828606' cy='367.7092472057337' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 410.6132846071537 340.7133594365111, L 409.5137830016048 346.71244560744947' stroke = 'black' stroke-width='1' />
+<circle cx='409.5137830016048' cy='346.71244560744947' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 425.816613252736 284.291378834692, L 420.8462942724494 286.2039883466181' stroke = 'black' stroke-width='2' />
+<path d='M 420.8462942724494 286.2039883466181, L 419.72790846550794 306.1008900879391' stroke = 'black' stroke-width='1' />
+<circle cx='419.72790846550794' cy='306.1008900879391' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 420.8462942724494 286.2039883466181, L 407.4256645891515 308.5880028056042' stroke = 'black' stroke-width='1' />
+<circle cx='407.4256645891515' cy='308.5880028056042' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 449.66312278586133 158.7851695734662, L 442.8020369888753 224.3210588226312' stroke = 'black' stroke-width='5' />
+<path d='M 442.8020369888753 224.3210588226312, L 435.9930459475146 241.1255064995808' stroke = 'black' stroke-width='4' />
+<path d='M 435.9930459475146 241.1255064995808, L 428.12630748578044 247.6157934815483' stroke = 'black' stroke-width='3' />
+<path d='M 428.12630748578044 247.6157934815483, L 425.00763212351404 264.244302694023' stroke = 'black' stroke-width='2' />
+<path d='M 425.00763212351404 264.244302694023, L 419.20150662912204 315.66997618665084' stroke = 'black' stroke-width='1' />
+<circle cx='419.20150662912204' cy='315.66997618665084' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 425.00763212351404 264.244302694023, L 415.3307562995273 298.20465311368287' stroke = 'black' stroke-width='1' />
+<circle cx='415.3307562995273' cy='298.20465311368287' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 428.12630748578044 247.6157934815483, L 427.5025724133272 313.1516827307133' stroke = 'black' stroke-width='2' />
+<path d='M 427.5025724133272 313.1516827307133, L 384.2026764999537 362.20780544519346' stroke = 'black' stroke-width='1' />
+<circle cx='384.2026764999537' cy='362.20780544519346' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 427.5025724133272 313.1516827307133, L 403.8844473696689 327.49116475494594' stroke = 'black' stroke-width='1' />
+<circle cx='403.8844473696689' cy='327.49116475494594' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 435.9930459475146 241.1255064995808, L 433.3707997936032 257.814815881783' stroke = 'black' stroke-width='3' />
+<path d='M 433.3707997936032 257.814815881783, L 431.13402817972025 279.36979276821404' stroke = 'black' stroke-width='2' />
+<path d='M 431.13402817972025 279.36979276821404, L 419.0823653990973 281.27190580080435' stroke = 'black' stroke-width='1' />
+<circle cx='419.0823653990973' cy='281.27190580080435' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 431.13402817972025 279.36979276821404, L 422.79056933159666 308.8525447733638' stroke = 'black' stroke-width='1' />
+<circle cx='422.79056933159666' cy='308.8525447733638' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 433.3707997936032 257.814815881783, L 411.5622765582441 294.2924690742048' stroke = 'black' stroke-width='2' />
+<path d='M 411.5622765582441 294.2924690742048, L 406.1158862080938 327.0006212240763' stroke = 'black' stroke-width='1' />
+<circle cx='406.1158862080938' cy='327.0006212240763' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 411.5622765582441 294.2924690742048, L 411.01763752322904 328.6779623599672' stroke = 'black' stroke-width='1' />
+<circle cx='411.01763752322904' cy='328.6779623599672' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 442.8020369888753 224.3210588226312, L 433.12610235115216 227.1218001021228' stroke = 'black' stroke-width='4' />
+<path d='M 433.12610235115216 227.1218001021228, L 417.0666084050056 247.0605714169291' stroke = 'black' stroke-width='3' />
+<path d='M 417.0666084050056 247.0605714169291, L 386.67936198531237 307.06228246607697' stroke = 'black' stroke-width='2' />
+<path d='M 386.67936198531237 307.06228246607697, L 386.67936198531237 311.0554600163134' stroke = 'black' stroke-width='1' />
+<circle cx='386.67936198531237' cy='311.0554600163134' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 386.67936198531237 307.06228246607697, L 355.9867958045579 320.63908613688096' stroke = 'black' stroke-width='1' />
+<circle cx='355.9867958045579' cy='320.63908613688096' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 417.0666084050056 247.0605714169291, L 411.401189580995 278.7757615429073' stroke = 'black' stroke-width='2' />
+<path d='M 411.401189580995 278.7757615429073, L 407.49387829610225 284.2987906636219' stroke = 'black' stroke-width='1' />
+<circle cx='407.49387829610225' cy='284.2987906636219' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 411.401189580995 278.7757615429073, L 402.4143736257417 327.5625187758866' stroke = 'black' stroke-width='1' />
+<circle cx='402.4143736257417' cy='327.5625187758866' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 433.12610235115216 227.1218001021228, L 414.10828057282066 236.1848779724893' stroke = 'black' stroke-width='3' />
+<path d='M 414.10828057282066 236.1848779724893, L 400.98709999301053 267.1279707616229' stroke = 'black' stroke-width='2' />
+<path d='M 400.98709999301053 267.1279707616229, L 395.13837258007004 272.9741911503343' stroke = 'black' stroke-width='1' />
+<circle cx='395.13837258007004' cy='272.9741911503343' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 400.98709999301053 267.1279707616229, L 389.28964516712955 324.6158045839518' stroke = 'black' stroke-width='1' />
+<circle cx='389.28964516712955' cy='324.6158045839518' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 414.10828057282066 236.1848779724893, L 406.2355722249346 288.25983900786053' stroke = 'black' stroke-width='2' />
+<path d='M 406.2355722249346 288.25983900786053, L 359.0122264429511 300.97157300056784' stroke = 'black' stroke-width='1' />
+<circle cx='359.0122264429511' cy='300.97157300056784' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 406.2355722249346 288.25983900786053, L 402.6715461281811 318.6772024904102' stroke = 'black' stroke-width='1' />
+<circle cx='402.6715461281811' cy='318.6772024904102' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 471.62690151195454 156.04453320053838, L 444.37554642587594 199.89471516738323' stroke = 'black' stroke-width='6' />
+<path d='M 444.37554642587594 199.89471516738323, L 408.42937011488414 258.60165492356293' stroke = 'black' stroke-width='5' />
+<path d='M 408.42937011488414 258.60165492356293, L 366.4415922594917 279.73352316980055' stroke = 'black' stroke-width='4' />
+<path d='M 366.4415922594917 279.73352316980055, L 350.4343939010246 312.82997482128286' stroke = 'black' stroke-width='3' />
+<path d='M 350.4343939010246 312.82997482128286, L 317.4420125962505 368.3754921824707' stroke = 'black' stroke-width='2' />
+<path d='M 317.4420125962505 368.3754921824707, L 316.18639606885625 380.3462607855886' stroke = 'black' stroke-width='1' />
+<circle cx='316.18639606885625' cy='380.3462607855886' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 317.4420125962505 368.3754921824707, L 315.6283442789032 432.21959139909944' stroke = 'black' stroke-width='1' />
+<circle cx='315.6283442789032' cy='432.21959139909944' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 350.4343939010246 312.82997482128286, L 339.8097287350804 358.42704131181017' stroke = 'black' stroke-width='2' />
+<path d='M 339.8097287350804 358.42704131181017, L 332.8952058027918 362.9947686000232' stroke = 'black' stroke-width='1' />
+<circle cx='332.8952058027918' cy='362.9947686000232' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 339.8097287350804 358.42704131181017, L 331.6749958735644 362.08122314238057' stroke = 'black' stroke-width='1' />
+<circle cx='331.6749958735644' cy='362.08122314238057' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 366.4415922594917 279.73352316980055, L 350.4343939010246 281.309544677014' stroke = 'black' stroke-width='3' />
+<path d='M 350.4343939010246 281.309544677014, L 318.314113465366 309.16071418283974' stroke = 'black' stroke-width='2' />
+<path d='M 318.314113465366 309.16071418283974, L 316.1355573253059 361.9969599634015' stroke = 'black' stroke-width='1' />
+<circle cx='316.1355573253059' cy='361.9969599634015' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 318.314113465366 309.16071418283974, L 299.25174723984003 349.4169014442201' stroke = 'black' stroke-width='1' />
+<circle cx='299.25174723984003' cy='349.4169014442201' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 350.4343939010246 281.309544677014, L 321.18199564712125 303.42664987281677' stroke = 'black' stroke-width='2' />
+<path d='M 321.18199564712125 303.42664987281677, L 286.7470395256231 311.4076664401769' stroke = 'black' stroke-width='1' />
+<circle cx='286.7470395256231' cy='311.4076664401769' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 321.18199564712125 303.42664987281677, L 274.38577322559814 332.0644152027561' stroke = 'black' stroke-width='1' />
+<circle cx='274.38577322559814' cy='332.0644152027561' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 408.42937011488414 258.60165492356293, L 367.75371031747267 289.54474771269656' stroke = 'black' stroke-width='4' />
+<path d='M 367.75371031747267 289.54474771269656, L 363.43767151544074 299.9646232695815' stroke = 'black' stroke-width='3' />
+<path d='M 363.43767151544074 299.9646232695815, L 363.43767151544074 358.25199971732513' stroke = 'black' stroke-width='2' />
+<path d='M 363.43767151544074 358.25199971732513, L 360.8063261729361 395.5478851998835' stroke = 'black' stroke-width='1' />
+<circle cx='360.8063261729361' cy='395.5478851998835' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 363.43767151544074 358.25199971732513, L 343.55639559429466 393.63527568795746' stroke = 'black' stroke-width='1' />
+<circle cx='343.55639559429466' cy='393.63527568795746' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 363.43767151544074 299.9646232695815, L 344.38126274376873 311.9649654794111' stroke = 'black' stroke-width='2' />
+<path d='M 344.38126274376873 311.9649654794111, L 312.01097172852946 359.2017346706229' stroke = 'black' stroke-width='1' />
+<circle cx='312.01097172852946' cy='359.2017346706229' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 344.38126274376873 311.9649654794111, L 336.46852494004355 347.39254237281995' stroke = 'black' stroke-width='1' />
+<circle cx='336.46852494004355' cy='347.39254237281995' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 367.75371031747267 289.54474771269656, L 347.61219590799044 334.0028834220724' stroke = 'black' stroke-width='3' />
+<path d='M 347.61219590799044 334.0028834220724, L 337.0168247936833 359.8238193752964' stroke = 'black' stroke-width='2' />
+<path d='M 337.0168247936833 359.8238193752964, L 320.41321402878236 401.8115972306889' stroke = 'black' stroke-width='1' />
+<circle cx='320.41321402878236' cy='401.8115972306889' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 337.0168247936833 359.8238193752964, L 327.2056002507873 381.47376733198314' stroke = 'black' stroke-width='1' />
+<circle cx='327.2056002507873' cy='381.47376733198314' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 347.61219590799044 334.0028834220724, L 290.2206023721602 366.8658928170847' stroke = 'black' stroke-width='2' />
+<path d='M 290.2206023721602 366.8658928170847, L 287.7334896544951 369.6618573344385' stroke = 'black' stroke-width='1' />
+<circle cx='287.7334896544951' cy='369.6618573344385' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 290.2206023721602 366.8658928170847, L 267.83658791317407 388.67441605244386' stroke = 'black' stroke-width='1' />
+<circle cx='267.83658791317407' cy='388.67441605244386' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 444.37554642587594 199.89471516738323, L 425.857819235365 222.53882050190967' stroke = 'black' stroke-width='5' />
+<path d='M 425.857819235365 222.53882050190967, L 414.8759298723184 251.7722751464729' stroke = 'black' stroke-width='4' />
+<path d='M 414.8759298723184 251.7722751464729, L 385.5187596024453 310.91681889491866' stroke = 'black' stroke-width='3' />
+<path d='M 385.5187596024453 310.91681889491866, L 380.4829624501043 377.8837460997488' stroke = 'black' stroke-width='2' />
+<path d='M 380.4829624501043 377.8837460997488, L 377.8138286817142 398.85496632959484' stroke = 'black' stroke-width='1' />
+<circle cx='377.8138286817142' cy='398.85496632959484' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 380.4829624501043 377.8837460997488, L 377.970836550443 390.8659300515583' stroke = 'black' stroke-width='1' />
+<circle cx='377.970836550443' cy='390.8659300515583' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 385.5187596024453 310.91681889491866, L 382.0457960491067 370.99009182866337' stroke = 'black' stroke-width='2' />
+<path d='M 382.0457960491067 370.99009182866337, L 380.547369675443 423.83957153897023' stroke = 'black' stroke-width='1' />
+<circle cx='380.547369675443' cy='423.83957153897023' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 382.0457960491067 370.99009182866337, L 357.6963674770724 402.51434288393415' stroke = 'black' stroke-width='1' />
+<circle cx='357.6963674770724' cy='402.51434288393415' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 414.8759298723184 251.7722751464729, L 391.1841784264559 292.05913827947217' stroke = 'black' stroke-width='3' />
+<path d='M 391.1841784264559 292.05913827947217, L 354.4146258047554 323.1718366516803' stroke = 'black' stroke-width='2' />
+<path d='M 354.4146258047554 323.1718366516803, L 345.5396423082007 344.9232235405599' stroke = 'black' stroke-width='1' />
+<circle cx='345.5396423082007' cy='344.9232235405599' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 354.4146258047554 323.1718366516803, L 345.9622605699414 328.60968337390017' stroke = 'black' stroke-width='1' />
+<circle cx='345.9622605699414' cy='328.60968337390017' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 391.1841784264559 292.05913827947217, L 379.87046992747116 325.2931569952399' stroke = 'black' stroke-width='2' />
+<path d='M 379.87046992747116 325.2931569952399, L 370.68564352160405 366.80218390749235' stroke = 'black' stroke-width='1' />
+<circle cx='370.68564352160405' cy='366.80218390749235' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 379.87046992747116 325.2931569952399, L 336.5705740140977 360.0097976854874' stroke = 'black' stroke-width='1' />
+<circle cx='336.5705740140977' cy='360.0097976854874' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 425.857819235365 222.53882050190967, L 399.0132007923622 267.3025479263971' stroke = 'black' stroke-width='4' />
+<path d='M 399.0132007923622 267.3025479263971, L 360.67869631009216 297.99511410715155' stroke = 'black' stroke-width='3' />
+<path d='M 360.67869631009216 297.99511410715155, L 345.33570617247443 351.0239628388024' stroke = 'black' stroke-width='2' />
+<path d='M 345.33570617247443 351.0239628388024, L 344.14894253473915 395.0172614256836' stroke = 'black' stroke-width='1' />
+<circle cx='344.14894253473915' cy='395.0172614256836' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 345.33570617247443 351.0239628388024, L 344.56780028923396 421.0133014997498' stroke = 'black' stroke-width='1' />
+<circle cx='344.56780028923396' cy='421.0133014997498' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 360.67869631009216 297.99511410715155, L 345.33570617247443 318.6673771720324' stroke = 'black' stroke-width='2' />
+<path d='M 345.33570617247443 318.6673771720324, L 322.79847329022226 346.9867947692751' stroke = 'black' stroke-width='1' />
+<circle cx='322.79847329022226' cy='346.9867947692751' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 345.33570617247443 318.6673771720324, L 326.6842030975071 352.0213578976738' stroke = 'black' stroke-width='1' />
+<circle cx='326.6842030975071' cy='352.0213578976738' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 399.0132007923622 267.3025479263971, L 368.66505141056507 296.79148406084744' stroke = 'black' stroke-width='3' />
+<path d='M 368.66505141056507 296.79148406084744, L 368.66505141056507 327.17873048054065' stroke = 'black' stroke-width='2' />
+<path d='M 368.66505141056507 327.17873048054065, L 340.1294009535394 334.6026219218368' stroke = 'black' stroke-width='1' />
+<circle cx='340.1294009535394' cy='334.6026219218368' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 368.66505141056507 327.17873048054065, L 319.87829417758576 328.74165499449776' stroke = 'black' stroke-width='1' />
+<circle cx='319.87829417758576' cy='328.74165499449776' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 368.66505141056507 296.79148406084744, L 314.663511466332 309.66743593359877' stroke = 'black' stroke-width='2' />
+<path d='M 314.663511466332 309.66743593359877, L 293.6290696125834 347.28569208031706' stroke = 'black' stroke-width='1' />
+<circle cx='293.6290696125834' cy='347.28569208031706' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 314.663511466332 309.66743593359877, L 269.358559781335 346.6979068280246' stroke = 'black' stroke-width='1' />
+<circle cx='269.358559781335' cy='346.6979068280246' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 490.14462870246547 112.43366366737634, L 477.61793089711983 165.26990944793806' stroke = 'black' stroke-width='7' />
+<path d='M 477.61793089711983 165.26990944793806, L 463.8646419927457 191.72024580109934' stroke = 'black' stroke-width='6' />
+<path d='M 463.8646419927457 191.72024580109934, L 442.5883516453642 229.27559579596448' stroke = 'black' stroke-width='5' />
+<path d='M 442.5883516453642 229.27559579596448, L 397.5138858808599 246.89656674535993' stroke = 'black' stroke-width='4' />
+<path d='M 397.5138858808599 246.89656674535993, L 370.42478096653093 253.98866352782042' stroke = 'black' stroke-width='3' />
+<path d='M 370.42478096653093 253.98866352782042, L 360.699563780105 305.06178935186466' stroke = 'black' stroke-width='2' />
+<path d='M 360.699563780105 305.06178935186466, L 335.1132616494752 315.62772347498344' stroke = 'black' stroke-width='1' />
+<circle cx='335.1132616494752' cy='315.62772347498344' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 360.699563780105 305.06178935186466, L 329.86478941755115 307.32591809253296' stroke = 'black' stroke-width='1' />
+<circle cx='329.86478941755115' cy='307.32591809253296' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 370.42478096653093 253.98866352782042, L 327.3559619980731 292.11367294576894' stroke = 'black' stroke-width='2' />
+<path d='M 327.3559619980731 292.11367294576894, L 308.7485711274493 300.3426664778636' stroke = 'black' stroke-width='1' />
+<circle cx='308.7485711274493' cy='300.3426664778636' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 327.3559619980731 292.11367294576894, L 318.45677505994865 305.6327337484958' stroke = 'black' stroke-width='1' />
+<circle cx='318.45677505994865' cy='305.6327337484958' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 397.5138858808599 246.89656674535993, L 371.65610391718224 251.62463126700027' stroke = 'black' stroke-width='3' />
+<path d='M 371.65610391718224 251.62463126700027, L 365.3520178883285 270.09447552677' stroke = 'black' stroke-width='2' />
+<path d='M 365.3520178883285 270.09447552677, L 342.6903425922861 270.09447552677' stroke = 'black' stroke-width='1' />
+<circle cx='342.6903425922861' cy='270.09447552677' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 365.3520178883285 270.09447552677, L 342.6903425922861 307.80983675766294' stroke = 'black' stroke-width='1' />
+<circle cx='342.6903425922861' cy='307.80983675766294' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 371.65610391718224 251.62463126700027, L 325.95148020799235 276.86675175535225' stroke = 'black' stroke-width='2' />
+<path d='M 325.95148020799235 276.86675175535225, L 282.44870643023313 305.6047935537198' stroke = 'black' stroke-width='1' />
+<circle cx='282.44870643023313' cy='305.6047935537198' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 325.95148020799235 276.86675175535225, L 299.6685543839295 285.74173525190696' stroke = 'black' stroke-width='1' />
+<circle cx='299.6685543839295' cy='285.74173525190696' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 442.5883516453642 229.27559579596448, L 406.06249145688656 233.0515181422635' stroke = 'black' stroke-width='4' />
+<path d='M 406.06249145688656 233.0515181422635, L 348.14706738464264 262.56090062533406' stroke = 'black' stroke-width='3' />
+<path d='M 348.14706738464264 262.56090062533406, L 287.9356525575364 264.68057768226686' stroke = 'black' stroke-width='2' />
+<path d='M 287.9356525575364 264.68057768226686, L 268.36420571095437 285.25259289911753' stroke = 'black' stroke-width='1' />
+<circle cx='268.36420571095437' cy='285.25259289911753' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 287.9356525575364 264.68057768226686, L 254.45817768838288 316.96778302509574' stroke = 'black' stroke-width='1' />
+<circle cx='254.45817768838288' cy='316.96778302509574' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 348.14706738464264 262.56090062533406, L 298.9602778075699 274.74904370269775' stroke = 'black' stroke-width='2' />
+<path d='M 298.9602778075699 274.74904370269775, L 288.6742701991446 287.10995750053905' stroke = 'black' stroke-width='1' />
+<circle cx='288.6742701991446' cy='287.10995750053905' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 298.9602778075699 274.74904370269775, L 261.244916576677 288.6550717252692' stroke = 'black' stroke-width='1' />
+<circle cx='261.244916576677' cy='288.6550717252692' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 406.06249145688656 233.0515181422635, L 380.2233022554239 263.92287212455267' stroke = 'black' stroke-width='3' />
+<path d='M 380.2233022554239 263.92287212455267, L 372.9149385942831 270.43065841376546' stroke = 'black' stroke-width='2' />
+<path d='M 372.9149385942831 270.43065841376546, L 367.0370860713584 296.3192022337638' stroke = 'black' stroke-width='1' />
+<circle cx='367.0370860713584' cy='296.3192022337638' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 372.9149385942831 270.43065841376546, L 347.64017274570676 279.3298453518899' stroke = 'black' stroke-width='1' />
+<circle cx='347.64017274570676' cy='279.3298453518899' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 380.2233022554239 263.92287212455267, L 337.2866657462217 279.78560120450885' stroke = 'black' stroke-width='2' />
+<path d='M 337.2866657462217 279.78560120450885, L 330.2962590029397 279.52392142329415' stroke = 'black' stroke-width='1' />
+<circle cx='330.2962590029397' cy='279.52392142329415' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 337.2866657462217 279.78560120450885, L 299.3387434255479 277.84917082351996' stroke = 'black' stroke-width='1' />
+<circle cx='299.3387434255479' cy='277.84917082351996' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 463.8646419927457 191.72024580109934, L 425.2521150660163 218.8093507154283' stroke = 'black' stroke-width='5' />
+<path d='M 425.2521150660163 218.8093507154283, L 413.77645799445986 222.6101828768239' stroke = 'black' stroke-width='4' />
+<path d='M 413.77645799445986 222.6101828768239, L 382.69061953618103 240.8604742172692' stroke = 'black' stroke-width='3' />
+<path d='M 382.69061953618103 240.8604742172692, L 325.3499764359516 240.8604742172692' stroke = 'black' stroke-width='2' />
+<path d='M 325.3499764359516 240.8604742172692, L 315.06537468096695 258.4794964090057' stroke = 'black' stroke-width='1' />
+<circle cx='315.06537468096695' cy='258.4794964090057' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 325.3499764359516 240.8604742172692, L 322.1360383875189 241.62651866038817' stroke = 'black' stroke-width='1' />
+<circle cx='322.1360383875189' cy='241.62651866038817' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 382.69061953618103 240.8604742172692, L 327.80743256881857 260.93564948955583' stroke = 'black' stroke-width='2' />
+<path d='M 327.80743256881857 260.93564948955583, L 312.5425668380029 277.8930659450184' stroke = 'black' stroke-width='1' />
+<circle cx='312.5425668380029' cy='277.8930659450184' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 327.80743256881857 260.93564948955583, L 270.1401620301816 268.8844384530539' stroke = 'black' stroke-width='1' />
+<circle cx='270.1401620301816' cy='268.8844384530539' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 413.77645799445986 222.6101828768239, L 408.33643626426107 231.4206683515216' stroke = 'black' stroke-width='3' />
+<path d='M 408.33643626426107 231.4206683515216, L 400.31737754656575 231.4206683515216' stroke = 'black' stroke-width='2' />
+<path d='M 400.31737754656575 231.4206683515216, L 342.3029300525614 250.57972200276836' stroke = 'black' stroke-width='1' />
+<circle cx='342.3029300525614' cy='250.57972200276836' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 400.31737754656575 231.4206683515216, L 388.9046993510239 246.56250107589403' stroke = 'black' stroke-width='1' />
+<circle cx='388.9046993510239' cy='246.56250107589403' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 408.33643626426107 231.4206683515216, L 395.8623449256239 232.3286493510007' stroke = 'black' stroke-width='2' />
+<path d='M 395.8623449256239 232.3286493510007, L 334.09827364393567 233.8102969777109' stroke = 'black' stroke-width='1' />
+<circle cx='334.09827364393567' cy='233.8102969777109' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 395.8623449256239 232.3286493510007, L 384.9042032466147 234.4203871769445' stroke = 'black' stroke-width='1' />
+<circle cx='384.9042032466147' cy='234.4203871769445' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 425.2521150660163 218.8093507154283, L 373.6116582440124 231.38133401850598' stroke = 'black' stroke-width='4' />
+<path d='M 373.6116582440124 231.38133401850598, L 302.0060817774967 226.99113856126453' stroke = 'black' stroke-width='3' />
+<path d='M 302.0060817774967 226.99113856126453, L 272.02435696692385 227.58443000520705' stroke = 'black' stroke-width='2' />
+<path d='M 272.02435696692385 227.58443000520705, L 263.29169543043986 231.93902412600107' stroke = 'black' stroke-width='1' />
+<circle cx='263.29169543043986' cy='231.93902412600107' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 272.02435696692385 227.58443000520705, L 212.83631766408806 240.16436857638976' stroke = 'black' stroke-width='1' />
+<circle cx='212.83631766408806' cy='240.16436857638976' r='15' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 302.0060817774967 226.99113856126453, L 268.02679365884745 229.0851083634146' stroke = 'black' stroke-width='2' />
+<path d='M 268.02679365884745 229.0851083634146, L 200.1924382411794 231.45682847071487' stroke = 'black' stroke-width='1' />
+<circle cx='200.1924382411794' cy='231.45682847071487' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 268.02679365884745 229.0851083634146, L 219.14615519611607 233.06122736682974' stroke = 'black' stroke-width='1' />
+<circle cx='219.14615519611607' cy='233.06122736682974' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 373.6116582440124 231.38133401850598, L 328.8581729524401 225.945853928588' stroke = 'black' stroke-width='3' />
+<path d='M 328.8581729524401 225.945853928588, L 303.1112031651593 222.18818020266625' stroke = 'black' stroke-width='2' />
+<path d='M 303.1112031651593 222.18818020266625, L 236.16987024774681 223.94241043100266' stroke = 'black' stroke-width='1' />
+<circle cx='236.16987024774681' cy='223.94241043100266' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 303.1112031651593 222.18818020266625, L 271.5531462183791 230.95933134434836' stroke = 'black' stroke-width='1' />
+<circle cx='271.5531462183791' cy='230.95933134434836' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 328.8581729524401 225.945853928588, L 274.39342917165374 221.77066089978604' stroke = 'black' stroke-width='2' />
+<path d='M 274.39342917165374 221.77066089978604, L 253.19222676774308 211.17227561512195' stroke = 'black' stroke-width='1' />
+<circle cx='253.19222676774308' cy='211.17227561512195' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 274.39342917165374 221.77066089978604, L 225.20663959458102 209.58251782242232' stroke = 'black' stroke-width='1' />
+<circle cx='225.20663959458102' cy='209.58251782242232' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 477.61793089711983 165.26990944793806, L 418.55969030774867 183.49125226900472' stroke = 'black' stroke-width='6' />
+<path d='M 418.55969030774867 183.49125226900472, L 407.8000666996768 192.4314549741684' stroke = 'black' stroke-width='5' />
+<path d='M 407.8000666996768 192.4314549741684, L 388.0265976810951 206.45933167141888' stroke = 'black' stroke-width='4' />
+<path d='M 388.0265976810951 206.45933167141888, L 336.679674223749 217.9271060568685' stroke = 'black' stroke-width='3' />
+<path d='M 336.679674223749 217.9271060568685, L 303.590043408171 219.3164227977865' stroke = 'black' stroke-width='2' />
+<path d='M 303.590043408171 219.3164227977865, L 282.5961544804748 244.97654852536073' stroke = 'black' stroke-width='1' />
+<circle cx='282.5961544804748' cy='244.97654852536073' r='19' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 303.590043408171 219.3164227977865, L 262.91438361075956 227.61822818023697' stroke = 'black' stroke-width='1' />
+<circle cx='262.91438361075956' cy='227.61822818023697' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 336.679674223749 217.9271060568685, L 324.4508976179919 246.40809924568737' stroke = 'black' stroke-width='2' />
+<path d='M 324.4508976179919 246.40809924568737, L 315.75219973532677 277.62018191573793' stroke = 'black' stroke-width='1' />
+<circle cx='315.75219973532677' cy='277.62018191573793' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 324.4508976179919 246.40809924568737, L 315.75219973532677 253.09640267498392' stroke = 'black' stroke-width='1' />
+<circle cx='315.75219973532677' cy='253.09640267498392' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 388.0265976810951 206.45933167141888, L 363.75350659216787 214.3434265614155' stroke = 'black' stroke-width='3' />
+<path d='M 363.75350659216787 214.3434265614155, L 355.1939979455115 235.97461616766182' stroke = 'black' stroke-width='2' />
+<path d='M 355.1939979455115 235.97461616766182, L 336.45834096746347 273.13185744153157' stroke = 'black' stroke-width='1' />
+<circle cx='336.45834096746347' cy='273.13185744153157' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 355.1939979455115 235.97461616766182, L 312.3696391385446 284.27902982369244' stroke = 'black' stroke-width='1' />
+<circle cx='312.3696391385446' cy='284.27902982369244' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 363.75350659216787 214.3434265614155, L 297.1795504515071 230.41231026891276' stroke = 'black' stroke-width='2' />
+<path d='M 297.1795504515071 230.41231026891276, L 237.3467349770985 240.1805884811446' stroke = 'black' stroke-width='1' />
+<circle cx='237.3467349770985' cy='240.1805884811446' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 297.1795504515071 230.41231026891276, L 282.4514727962681 247.60447992244082' stroke = 'black' stroke-width='1' />
+<circle cx='282.4514727962681' cy='247.60447992244082' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 407.8000666996768 192.4314549741684, L 384.43142149589846 214.35001231362227' stroke = 'black' stroke-width='4' />
+<path d='M 384.43142149589846 214.35001231362227, L 347.521551636285 209.53681562527763' stroke = 'black' stroke-width='3' />
+<path d='M 347.521551636285 209.53681562527763, L 343.5707982739044 220.0179247829731' stroke = 'black' stroke-width='2' />
+<path d='M 343.5707982739044 220.0179247829731, L 294.66341823721416 226.6710988891414' stroke = 'black' stroke-width='1' />
+<circle cx='294.66341823721416' cy='226.6710988891414' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 343.5707982739044 220.0179247829731, L 302.4885990430846 233.94800806776297' stroke = 'black' stroke-width='1' />
+<circle cx='302.4885990430846' cy='233.94800806776297' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 347.521551636285 209.53681562527763, L 279.37105613522044 218.14071120249034' stroke = 'black' stroke-width='2' />
+<path d='M 279.37105613522044 218.14071120249034, L 221.0364660214753 233.34403984807264' stroke = 'black' stroke-width='1' />
+<circle cx='221.0364660214753' cy='233.34403984807264' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 279.37105613522044 218.14071120249034, L 237.2936468728469 219.602569726104' stroke = 'black' stroke-width='1' />
+<circle cx='237.2936468728469' cy='219.602569726104' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 384.43142149589846 214.35001231362227, L 358.494756189143 210.16462388897475' stroke = 'black' stroke-width='3' />
+<path d='M 358.494756189143 210.16462388897475, L 351.13071736152347 205.86658147559274' stroke = 'black' stroke-width='2' />
+<path d='M 351.13071736152347 205.86658147559274, L 298.5613324344098 205.4125909758532' stroke = 'black' stroke-width='1' />
+<circle cx='298.5613324344098' cy='205.4125909758532' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 351.13071736152347 205.86658147559274, L 333.3105868777561 199.96470497897863' stroke = 'black' stroke-width='1' />
+<circle cx='333.3105868777561' cy='199.96470497897863' r='13' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 358.494756189143 210.16462388897475, L 322.59506690449786 204.6943880901249' stroke = 'black' stroke-width='2' />
+<path d='M 322.59506690449786 204.6943880901249, L 303.2765503787165 193.5651691507165' stroke = 'black' stroke-width='1' />
+<circle cx='303.2765503787165' cy='193.5651691507165' r='12' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 322.59506690449786 204.6943880901249, L 282.99210802664606 201.32974050379212' stroke = 'black' stroke-width='1' />
+<circle cx='282.99210802664606' cy='201.32974050379212' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 418.55969030774867 183.49125226900472, L 348.13306305491466 197.4213355537946' stroke = 'black' stroke-width='5' />
+<path d='M 348.13306305491466 197.4213355537946, L 276.40704479230897 192.71492544542104' stroke = 'black' stroke-width='4' />
+<path d='M 276.40704479230897 192.71492544542104, L 231.96767173914108 205.41208346925015' stroke = 'black' stroke-width='3' />
+<path d='M 231.96767173914108 205.41208346925015, L 205.6781807582919 232.9678852093768' stroke = 'black' stroke-width='2' />
+<path d='M 205.6781807582919 232.9678852093768, L 200.99426651377988 257.49166445013077' stroke = 'black' stroke-width='1' />
+<circle cx='200.99426651377988' cy='257.49166445013077' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 205.6781807582919 232.9678852093768, L 189.6190462056793 256.7485196246534' stroke = 'black' stroke-width='1' />
+<circle cx='189.6190462056793' cy='256.7485196246534' r='18' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 231.96767173914108 205.41208346925015, L 184.47697835438123 219.71990360354667' stroke = 'black' stroke-width='2' />
+<path d='M 184.47697835438123 219.71990360354667, L 155.32058047093253 257.89091507373746' stroke = 'black' stroke-width='1' />
+<circle cx='155.32058047093253' cy='257.89091507373746' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 184.47697835438123 219.71990360354667, L 143.50041916683168 221.56688802952365' stroke = 'black' stroke-width='1' />
+<circle cx='143.50041916683168' cy='221.56688802952365' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 276.40704479230897 192.71492544542104, L 238.58630176833628 193.69162990879252' stroke = 'black' stroke-width='3' />
+<path d='M 238.58630176833628 193.69162990879252, L 225.51617579737547 193.69162990879252' stroke = 'black' stroke-width='2' />
+<path d='M 225.51617579737547 193.69162990879252, L 205.4337759221517 199.53906400324726' stroke = 'black' stroke-width='1' />
+<circle cx='205.4337759221517' cy='199.53906400324726' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 225.51617579737547 193.69162990879252, L 172.9194142194085 196.32297525129715' stroke = 'black' stroke-width='1' />
+<circle cx='172.9194142194085' cy='196.32297525129715' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 238.58630176833628 193.69162990879252, L 216.18037153240346 218.06065047787294' stroke = 'black' stroke-width='2' />
+<path d='M 216.18037153240346 218.06065047787294, L 182.37918959962724 233.92337955782915' stroke = 'black' stroke-width='1' />
+<circle cx='182.37918959962724' cy='233.92337955782915' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 216.18037153240346 218.06065047787294, L 168.67600773498822 218.46738712094873' stroke = 'black' stroke-width='1' />
+<circle cx='168.67600773498822' cy='218.46738712094873' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 348.13306305491466 197.4213355537946, L 318.24722211216226 196.46262238357036' stroke = 'black' stroke-width='4' />
+<path d='M 318.24722211216226 196.46262238357036, L 265.6504605341953 194.12364874578847' stroke = 'black' stroke-width='3' />
+<path d='M 265.6504605341953 194.12364874578847, L 257.6942853712491 191.51043716409714' stroke = 'black' stroke-width='2' />
+<path d='M 257.6942853712491 191.51043716409714, L 253.95996366526032 210.50393848999806' stroke = 'black' stroke-width='1' />
+<circle cx='253.95996366526032' cy='210.50393848999806' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 257.6942853712491 191.51043716409714, L 211.01526404638904 213.37088208636047' stroke = 'black' stroke-width='1' />
+<circle cx='211.01526404638904' cy='213.37088208636047' r='14' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 265.6504605341953 194.12364874578847, L 205.97914681209892 188.79269711913815' stroke = 'black' stroke-width='2' />
+<path d='M 205.97914681209892 188.79269711913815, L 178.04735340482384 185.79316874814077' stroke = 'black' stroke-width='1' />
+<circle cx='178.04735340482384' cy='185.79316874814077' r='10' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 205.97914681209892 188.79269711913815, L 183.03517365612296 188.02537590795276' stroke = 'black' stroke-width='1' />
+<circle cx='183.03517365612296' cy='188.02537590795276' r='16' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 318.24722211216226 196.46262238357036, L 299.12112699290157 178.04320498603795' stroke = 'black' stroke-width='3' />
+<path d='M 299.12112699290157 178.04320498603795, L 284.37639019569974 145.34934811402832' stroke = 'black' stroke-width='2' />
+<path d='M 284.37639019569974 145.34934811402832, L 266.96660117204385 118.50808874743248' stroke = 'black' stroke-width='1' />
+<circle cx='266.96660117204385' cy='118.50808874743248' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 284.37639019569974 145.34934811402832, L 246.2406618581678 119.06728165090323' stroke = 'black' stroke-width='1' />
+<circle cx='246.2406618581678' cy='119.06728165090323' r='20' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 299.12112699290157 178.04320498603795, L 250.79115637985106 158.54160615010238' stroke = 'black' stroke-width='2' />
+<path d='M 250.79115637985106 158.54160615010238, L 242.96756107887444 133.78390533863632' stroke = 'black' stroke-width='1' />
+<circle cx='242.96756107887444' cy='133.78390533863632' r='11' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ <path d='M 250.79115637985106 158.54160615010238, L 228.52400052322528 102.63712044679187' stroke = 'black' stroke-width='1' />
+<circle cx='228.52400052322528' cy='102.63712044679187' r='17' opacity = '0.8' stroke ='black' fill = 'green' filter='url(#blur)' />
+ </g>
+ </svg>
